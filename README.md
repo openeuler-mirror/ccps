@@ -1,10 +1,18 @@
 # ccps
 
 #### 介绍
-Container Cloud Platform Solution
+容器云管理平台解决方案（CCPS）是以Kubernetes、OKD、CRI-O为基础，以应用为中心的企业级容器云PaaS平台，通过全栈自动化操作的DevOps工作流，对接各种基础架构的方法，提供自动伸缩、配置管理、资源管理、自动运维等功能，实现对容器化应用的
+全生命周期管理。  
+
+#### 产品功能
+对于管理员视角，容器云管理平台解决方案具有可视化管理、身份验证和授权、事件和日志收集、监控和报警等功能；对于开发者视角，容器云管理平台解决方案具有自动化的容器和应用构建、部署、扩展、运行状况管理等功能。
 
 #### 软件架构
-软件架构说明
++ DevOps 管理工具： 提供用于管理用户应用程序和自身服务的可视化 Web UI 和高效的 CLI 管理工具，并使用 REST API 构建，可被 IDE 和 CI 平台等外部工具使用。
++ PaaS 功能组件&容器镜像：PaaS 功能组件以容器方式于容器云管理平台上运行，应用程序运行时及中间件镜像则为运行在统信容器云管理平台中的云原生应用提供运行环境和中间件支持。
++ Kubernetes & Etcd：Kubernetes作为容器的编排和调度核心，Etcd是兼具一致性和高可用性的分布式键值存储数据库，用来存储有关Kubernetes集群元数据和其他资源的配置和状态信息。
++ CRD：提供 Operator 架构，其使用了 Kubernetes 中的 CRD，扩展了 Kubernetes API 和声明性管理功能。
++ 基础操作系统环境：节点机器的基础操作系统环境。
 
 
 #### 安装教程
@@ -21,17 +29,8 @@ Container Cloud Platform Solution
 
 #### 参与贡献
 
-1.  Fork 本仓库
+1.  Fork [ccps](https://gitee.com/ccps)组织下的仓库
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
