@@ -1,9 +1,10 @@
 # CCPS仓库及最新提交
 | 仓库名称 | 最新一次提交 |
 | -------- | ------------ |
-| utccp-image-alibaba-cloud-controller-manager | https://gitee.com/ccps/utccp-image-alibaba-cloud-controller-manager/commit/26c779dc7a767c338e6a720946888d226ccf7f25 |
 | utccp-image-alibaba-cloud-csi-driver | https://gitee.com/ccps/utccp-image-alibaba-cloud-csi-driver/commit/5f17ef799328c420c632084b4911772b7295ee8a |
 | utccp-image-alibaba-disk-csi-driver-operator | https://gitee.com/ccps/utccp-image-alibaba-disk-csi-driver-operator/commit/034408c8a9702acfb1c080fc40affd30447d6528 |
+| utccp-image-ironic-static-ip-manager | https://gitee.com/ccps/utccp-image-ironic-static-ip-manager/commit/e3d93ec5e6fcf66a7834a348e350a68d44474267 |
+| utccp-image-alibaba-cloud-controller-manager | https://gitee.com/ccps/utccp-image-alibaba-cloud-controller-manager/commit/26c779dc7a767c338e6a720946888d226ccf7f25 |
 | utccp-image-alibaba-machine-controllers | https://gitee.com/ccps/utccp-image-alibaba-machine-controllers/commit/9e4c4b547e5cd53b9deac64da6bfc2d1811c34ef |
 | utccp-image-baremetal-operator | https://gitee.com/ccps/utccp-image-baremetal-operator/commit/4785d1e0404bbc49152fe4237c9975e29a97fc81 |
 | utccp-image-baremetal-runtimecfg | https://gitee.com/ccps/utccp-image-baremetal-runtimecfg/commit/20d8638460ce453cffee45957db21d23d590edbb |
@@ -50,7 +51,7 @@
 | utccp-image-containernetworking-plugins | https://gitee.com/ccps/utccp-image-containernetworking-plugins/commit/521494cb1022cc1e9a73818108353b77ab4dc3df |
 | utccp-image-coredns | https://gitee.com/ccps/utccp-image-coredns/commit/50ec67d169ee3314448934a43d7e267954279a2a |
 | utccp-image-csi-driver-manila-operator | https://gitee.com/ccps/utccp-image-csi-driver-manila-operator/commit/91fcd5b45835a4bb11adb91709b5e87518c68a31 |
-| utccp-image-csi-driver-nfs | https://gitee.com/ccps/utccp-image-csi-driver-nfs/commit/5af60d870e5e5da9a3398d28f3fcc9ebf6891a6e |
+| utccp-image-csi-driver-nfs | https://gitee.com/ccps/utccp-image-csi-driver-nfs/commit/301b3dc5164688f3bfb38e687bf3e21d17391e7f |
 | utccp-image-csi-driver-shared-resource | https://gitee.com/ccps/utccp-image-csi-driver-shared-resource/commit/a28591947a6f58c432c5a9ce0cb62f767ba024e0 |
 | utccp-image-csi-driver-shared-resource-operator | https://gitee.com/ccps/utccp-image-csi-driver-shared-resource-operator/commit/bb22b2f04398da018425c60ea1475d4d6196a76e |
 | utccp-image-csi-external-attacher | https://gitee.com/ccps/utccp-image-csi-external-attacher/commit/1ebf43e6dbf9809f7b5f1300655fbf83ad516604 |
@@ -81,7 +82,6 @@
 | utccp-image-ironic-hardware-inventory-recorder-image | https://gitee.com/ccps/utccp-image-ironic-hardware-inventory-recorder-image/commit/bf6602e4dd0f3b0fe54540d51c76a81730653db0 |
 | utccp-image-ironic-image | https://gitee.com/ccps/utccp-image-ironic-image/commit/13aa189710006bfb64f1c4fda5d15906c40813e4 |
 | utccp-image-ironic-rhcos-downloader | https://gitee.com/ccps/utccp-image-ironic-rhcos-downloader/commit/e563dc4e453147558195968c02b4d9d879925bc2 |
-| utccp-image-ironic-static-ip-manager | https://gitee.com/ccps/utccp-image-ironic-static-ip-manager/commit/e3d93ec5e6fcf66a7834a348e350a68d44474267 |
 | utccp-image-k8s-prometheus-adapter | https://gitee.com/ccps/utccp-image-k8s-prometheus-adapter/commit/be6c571b31b23e9f8bab9b321027895ddb81e5cd |
 | utccp-image-kube-rbac-proxy | https://gitee.com/ccps/utccp-image-kube-rbac-proxy/commit/0393437d2db0e4d5bf56067ecb87104a340ffe43 |
 | utccp-image-kubernetes | https://gitee.com/ccps/utccp-image-kubernetes/commit/d9ae114173f2ff3eecae19c974be483c811464a4 |
