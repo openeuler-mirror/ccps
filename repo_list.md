@@ -1,9 +1,6 @@
 # CCPS仓库及最新提交
 | 仓库名称 | 最新一次提交 |
 | -------- | ------------ |
-| utccp-image-alibaba-cloud-controller-manager | https://gitee.com/ccps/utccp-image-alibaba-cloud-controller-manager/commit/26c779dc7a767c338e6a720946888d226ccf7f25 |
-| utccp-image-alibaba-cloud-csi-driver | https://gitee.com/ccps/utccp-image-alibaba-cloud-csi-driver/commit/5f17ef799328c420c632084b4911772b7295ee8a |
-| utccp-image-alibaba-disk-csi-driver-operator | https://gitee.com/ccps/utccp-image-alibaba-disk-csi-driver-operator/commit/034408c8a9702acfb1c080fc40affd30447d6528 |
 | utccp-image-alibaba-machine-controllers | https://gitee.com/ccps/utccp-image-alibaba-machine-controllers/commit/9e4c4b547e5cd53b9deac64da6bfc2d1811c34ef |
 | utccp-image-baremetal-operator | https://gitee.com/ccps/utccp-image-baremetal-operator/commit/4785d1e0404bbc49152fe4237c9975e29a97fc81 |
 | utccp-image-baremetal-runtimecfg | https://gitee.com/ccps/utccp-image-baremetal-runtimecfg/commit/20d8638460ce453cffee45957db21d23d590edbb |
@@ -38,8 +35,16 @@
 | utccp-image-cluster-network-operator | https://gitee.com/ccps/utccp-image-cluster-network-operator/commit/edcc4a47b629ff2e837f42db4c09d945f9f18310 |
 | utccp-image-cluster-node-tuning-operator | https://gitee.com/ccps/utccp-image-cluster-node-tuning-operator/commit/d577b0117b4f385ab8a8230a22b6035ee41fea24 |
 | utccp-image-cluster-openshift-apiserver-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-apiserver-operator/commit/0c99e40f125330980bdd58aa26abb6ee909b4934 |
-| utccp-image-cluster-openshift-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-controller-manager-operator/commit/b9e509dfc40d7b6dfa409fa1737dd08161789421 |
 | utccp-image-cluster-policy-controller | https://gitee.com/ccps/utccp-image-cluster-policy-controller/commit/9b1d66cdc1757b02fedbc4f39f3a40c5a76a2421 |
+| utccp | https://gitee.com/ccps/utccp/commit/4d8ae6965d66e5030038c64cc5c6d8c02ac1af8b |
+| utccp-clients | https://gitee.com/ccps/utccp-clients/commit/828866d893f709eb3bd02ea3c8912dd053f88e81 |
+| utccp-gitops-kam | https://gitee.com/ccps/utccp-gitops-kam/commit/None |
+| utccp-helm | https://gitee.com/ccps/utccp-helm/commit/87ba7cb7f75200a098fb2628ec4ff60a8bd395ef |
+| utccp-ignition | https://gitee.com/ccps/utccp-ignition/commit/f31e4e30d91403d1df421d1bfb03029e38c4ca26 |
+| utccp-image-alibaba-cloud-controller-manager | https://gitee.com/ccps/utccp-image-alibaba-cloud-controller-manager/commit/26c779dc7a767c338e6a720946888d226ccf7f25 |
+| utccp-image-alibaba-cloud-csi-driver | https://gitee.com/ccps/utccp-image-alibaba-cloud-csi-driver/commit/5f17ef799328c420c632084b4911772b7295ee8a |
+| utccp-image-alibaba-disk-csi-driver-operator | https://gitee.com/ccps/utccp-image-alibaba-disk-csi-driver-operator/commit/034408c8a9702acfb1c080fc40affd30447d6528 |
+| utccp-image-cluster-openshift-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-controller-manager-operator/commit/b9e509dfc40d7b6dfa409fa1737dd08161789421 |
 | utccp-image-cluster-samples-operator | https://gitee.com/ccps/utccp-image-cluster-samples-operator/commit/dabdba0f4949c6b812386f027d2e48bdae2f16ee |
 | utccp-image-cluster-storage-operator | https://gitee.com/ccps/utccp-image-cluster-storage-operator/commit/15cc3b554fa371d4718cbaf47b1fcabf8c3f7bde |
 | utccp-image-cluster-update-keys | https://gitee.com/ccps/utccp-image-cluster-update-keys/commit/441029b602ca7533a4be34a3e51be8bef4aa7de6 |
@@ -50,7 +55,7 @@
 | utccp-image-containernetworking-plugins | https://gitee.com/ccps/utccp-image-containernetworking-plugins/commit/521494cb1022cc1e9a73818108353b77ab4dc3df |
 | utccp-image-coredns | https://gitee.com/ccps/utccp-image-coredns/commit/50ec67d169ee3314448934a43d7e267954279a2a |
 | utccp-image-csi-driver-manila-operator | https://gitee.com/ccps/utccp-image-csi-driver-manila-operator/commit/91fcd5b45835a4bb11adb91709b5e87518c68a31 |
-| utccp-image-csi-driver-nfs | https://gitee.com/ccps/utccp-image-csi-driver-nfs/commit/5af60d870e5e5da9a3398d28f3fcc9ebf6891a6e |
+| utccp-image-csi-driver-nfs | https://gitee.com/ccps/utccp-image-csi-driver-nfs/commit/301b3dc5164688f3bfb38e687bf3e21d17391e7f |
 | utccp-image-csi-driver-shared-resource | https://gitee.com/ccps/utccp-image-csi-driver-shared-resource/commit/a28591947a6f58c432c5a9ce0cb62f767ba024e0 |
 | utccp-image-csi-driver-shared-resource-operator | https://gitee.com/ccps/utccp-image-csi-driver-shared-resource-operator/commit/bb22b2f04398da018425c60ea1475d4d6196a76e |
 | utccp-image-csi-external-attacher | https://gitee.com/ccps/utccp-image-csi-external-attacher/commit/1ebf43e6dbf9809f7b5f1300655fbf83ad516604 |
@@ -67,11 +72,6 @@
 | utccp-image-image-registry | https://gitee.com/ccps/utccp-image-image-registry/commit/e6143745928d05b65d739ef175971fa97909bd97 |
 | utccp-image-images | https://gitee.com/ccps/utccp-image-images/commit/f4c22abcdc8d2dcf4aab9639334ac5e9ce29492d |
 | utccp-image-installer | https://gitee.com/ccps/utccp-image-installer/commit/3f1a789057ca19f6c17e062072823f6736f28f78 |
-| utccp | https://gitee.com/ccps/utccp/commit/4d8ae6965d66e5030038c64cc5c6d8c02ac1af8b |
-| utccp-clients | https://gitee.com/ccps/utccp-clients/commit/828866d893f709eb3bd02ea3c8912dd053f88e81 |
-| utccp-gitops-kam | https://gitee.com/ccps/utccp-gitops-kam/commit/None |
-| utccp-helm | https://gitee.com/ccps/utccp-helm/commit/87ba7cb7f75200a098fb2628ec4ff60a8bd395ef |
-| utccp-ignition | https://gitee.com/ccps/utccp-ignition/commit/f31e4e30d91403d1df421d1bfb03029e38c4ca26 |
 | utccp-install | https://gitee.com/ccps/utccp-install/commit/64c15ba2509196e5192464a17b53300fc3747d90 |
 | utccp-odo | https://gitee.com/ccps/utccp-odo/commit/044e2ab3856cb5277de33014494e98b17097b5a2 |
 | utccp-opm | https://gitee.com/ccps/utccp-opm/commit/530a8aa2fe639e23e46bcfc491e5c08ca1ba018a |
@@ -136,6 +136,6 @@
 | utccp-image-thanos | https://gitee.com/ccps/utccp-image-thanos/commit/98a2fa61e15815c5611adda9541627e0464a5c7b |
 | utccp-image-vmware-vsphere-csi-driver | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver/commit/da9f13c5dba5460558aace6fbcd5d9b15f5a9be5 |
 | utccp-image-vmware-vsphere-csi-driver-operator | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver-operator/commit/da17c3a94f2b84c7f0546364bf7890db8616b567 |
-| utccp-image-vsphere-cloud-controller-manager | https://gitee.com/ccps/utccp-image-vsphere-cloud-controller-manager/commit/fcfebf3cd156268d5e866e0cd94f9c2a1b5c5428 |
+| utccp-image-vsphere-cloud-controller-manager | https://gitee.com/ccps/utccp-image-vsphere-cloud-controller-manager/commit/69a85f490e4f97c07e7c49f46e4a09d49b9fda20 |
 | utccp-image-vsphere-problem-detector | https://gitee.com/ccps/utccp-image-vsphere-problem-detector/commit/4670aa6314feff0f0a32da041406cbb788119128 |
 | utccp-image-whereabouts-cni | https://gitee.com/ccps/utccp-image-whereabouts-cni/commit/5c4d3a8ac9b47df52b9b76a72c533018a254e719 |
