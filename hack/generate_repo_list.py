@@ -42,7 +42,7 @@ def get_latest_commit_sha(repo_name):
     return response.json().get('sha')
 
 if __name__ == "__main__":
-    repos = get_all_organization_repos()
+    repos = sorted(get_all_organization_repos())
     commit_urls = []
     # 构建Markdown表格
     markdown_table = "# CCPS仓库及最新提交\n| 仓库名称 | 最新一次提交 |\n| -------- | ------------ |\n"
