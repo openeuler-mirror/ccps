@@ -42,13 +42,17 @@ def get_latest_commit_sha(repo_name):
     return response.json().get('sha')
 
 if __name__ == "__main__":
-    repos = sorted(get_all_organization_repos())
+    repos = get_all_organization_repos()
+    repos_name = []
     commit_urls = []
     # 构建Markdown表格
     markdown_table = "# CCPS仓库及最新提交\n| 仓库名称 | 最新一次提交 |\n| -------- | ------------ |\n"
     
     for repo_data in repos:
-        repo_name = repo_data.get('name')
+        repos_name.append(repo_data.get('name'))
+    repos_name = sorted(repos_name)
+
+    for repo_name in repos_name:
         latest_commit_sha = get_latest_commit_sha(repo_name)
         commit_url = f'https://gitee.com/{ORG_NAME}/{repo_name}/commit/{latest_commit_sha}'
         markdown_table += f"| {repo_name} | {commit_url} |\n"
