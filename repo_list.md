@@ -73,7 +73,7 @@
 | utccp-image-images | https://gitee.com/ccps/utccp-image-images/commit/f4c22abcdc8d2dcf4aab9639334ac5e9ce29492d |
 | utccp-image-installer | https://gitee.com/ccps/utccp-image-installer/commit/3f1a789057ca19f6c17e062072823f6736f28f78 |
 | utccp-image-ironic-agent | https://gitee.com/ccps/utccp-image-ironic-agent/commit/062d325673554fa2d0ab580bbd6ac5e1186bb471 |
-| utccp-image-ironic-hardware-inventory-recorder-image | https://gitee.com/ccps/utccp-image-ironic-hardware-inventory-recorder-image/commit/bf6602e4dd0f3b0fe54540d51c76a81730653db0 |
+| utccp-image-ironic-hardware-inventory-recorder-image | https://gitee.com/ccps/utccp-image-ironic-hardware-inventory-recorder-image/commit/b0268105689d6ebd050246f796067c5c10d19269 |
 | utccp-image-ironic-image | https://gitee.com/ccps/utccp-image-ironic-image/commit/13aa189710006bfb64f1c4fda5d15906c40813e4 |
 | utccp-image-ironic-rhcos-downloader | https://gitee.com/ccps/utccp-image-ironic-rhcos-downloader/commit/e563dc4e453147558195968c02b4d9d879925bc2 |
 | utccp-image-ironic-static-ip-manager | https://gitee.com/ccps/utccp-image-ironic-static-ip-manager/commit/e3d93ec5e6fcf66a7834a348e350a68d44474267 |
