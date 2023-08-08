@@ -28,7 +28,7 @@
 | utccp-image-cluster-bootstrap | https://gitee.com/ccps/utccp-image-cluster-bootstrap/commit/260f67c95b1821d007c4ffe3524a1ce9d0191cbd |
 | utccp-image-cluster-capi-operator | https://gitee.com/ccps/utccp-image-cluster-capi-operator/commit/bff0007e7c4eeb7238aa21d865393fb8651df368 |
 | utccp-image-cluster-cloud-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-cloud-controller-manager-operator/commit/4d1dd1cc20e37a4c06cd572799c120e0ca79b739 |
-| utccp-image-cluster-config-operator | https://gitee.com/ccps/utccp-image-cluster-config-operator/commit/5d1f8c9fb8ac276944bf9feca6a4e05bc6a2eb29 |
+| utccp-image-cluster-config-operator | https://gitee.com/ccps/utccp-image-cluster-config-operator/commit/d5abee2a358d83a41965e5a2fe70f385129ed554 |
 | utccp-image-cluster-csi-snapshot-controller-operator | https://gitee.com/ccps/utccp-image-cluster-csi-snapshot-controller-operator/commit/6c9ca15dcd5ac6eb250bd77c6fea9845e81f22df |
 | utccp-image-cluster-dns-operator | https://gitee.com/ccps/utccp-image-cluster-dns-operator/commit/aa01a672c84ac438894961087469b21959414698 |
 | utccp-image-cluster-etcd-operator | https://gitee.com/ccps/utccp-image-cluster-etcd-operator/commit/46de63b8ae75bc4bfbe28e9d4f281a9114776f04 |
