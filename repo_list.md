@@ -85,7 +85,7 @@
 | utccp-image-kuryr-kubernetes | https://gitee.com/ccps/utccp-image-kuryr-kubernetes/commit/8050e1dc7d7c3dff4a2b78728badbc92316e1e6c |
 | utccp-image-machine-api-operator | https://gitee.com/ccps/utccp-image-machine-api-operator/commit/e11d24ad6206aad4acb95493711139cd32a8bbae |
 | utccp-image-machine-api-provider-openstack | https://gitee.com/ccps/utccp-image-machine-api-provider-openstack/commit/87b9212d2d2c14adada7c9aa42f803e9893541f4 |
-| utccp-image-machine-config-operator | https://gitee.com/ccps/utccp-image-machine-config-operator/commit/e21cce9c4dfa828fa7b7c15babe53ef3b87a3d33 |
+| utccp-image-machine-config-operator | https://gitee.com/ccps/utccp-image-machine-config-operator/commit/95063dcfcc7922dfbcbeec3bdaf02ea4c53b6aad |
 | utccp-image-machine-os-content | https://gitee.com/ccps/utccp-image-machine-os-content/commit/867fe52cda986fe4f9e1870e066f8e9fa7fa025c |
 | utccp-image-machine-os-images | https://gitee.com/ccps/utccp-image-machine-os-images/commit/c6d81759b440255f3d5d91a9ca120c8a88db7af6 |
 | utccp-image-multus-admission-controller | https://gitee.com/ccps/utccp-image-multus-admission-controller/commit/d38d83afa7e6c4f79e522b360a003865717f0760 |
