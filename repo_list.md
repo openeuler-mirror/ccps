@@ -43,7 +43,7 @@
 | utccp-image-cluster-network-operator | https://gitee.com/ccps/utccp-image-cluster-network-operator/commit/edcc4a47b629ff2e837f42db4c09d945f9f18310 |
 | utccp-image-cluster-node-tuning-operator | https://gitee.com/ccps/utccp-image-cluster-node-tuning-operator/commit/d577b0117b4f385ab8a8230a22b6035ee41fea24 |
 | utccp-image-cluster-openshift-apiserver-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-apiserver-operator/commit/0c99e40f125330980bdd58aa26abb6ee909b4934 |
-| utccp-image-cluster-openshift-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-controller-manager-operator/commit/b9e509dfc40d7b6dfa409fa1737dd08161789421 |
+| utccp-image-cluster-openshift-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-controller-manager-operator/commit/d1139ab61d1789c4586ee3eb2dc60bc69966911d |
 | utccp-image-cluster-policy-controller | https://gitee.com/ccps/utccp-image-cluster-policy-controller/commit/ee3df29d561589d577f496c6d165758226646226 |
 | utccp-image-cluster-samples-operator | https://gitee.com/ccps/utccp-image-cluster-samples-operator/commit/dabdba0f4949c6b812386f027d2e48bdae2f16ee |
 | utccp-image-cluster-storage-operator | https://gitee.com/ccps/utccp-image-cluster-storage-operator/commit/15cc3b554fa371d4718cbaf47b1fcabf8c3f7bde |
