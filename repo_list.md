@@ -127,7 +127,7 @@
 | utccp-image-telemeter | https://gitee.com/ccps/utccp-image-telemeter/commit/4e8be2872633f6ee9c0febbb40a88ff28258de00 |
 | utccp-image-thanos | https://gitee.com/ccps/utccp-image-thanos/commit/98a2fa61e15815c5611adda9541627e0464a5c7b |
 | utccp-image-vmware-vsphere-csi-driver | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver/commit/da9f13c5dba5460558aace6fbcd5d9b15f5a9be5 |
-| utccp-image-vmware-vsphere-csi-driver-operator | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver-operator/commit/da17c3a94f2b84c7f0546364bf7890db8616b567 |
+| utccp-image-vmware-vsphere-csi-driver-operator | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver-operator/commit/5af7abd6e62a794da9843983977220629cd78267 |
 | utccp-image-vsphere-cloud-controller-manager | https://gitee.com/ccps/utccp-image-vsphere-cloud-controller-manager/commit/60218b5ebd341f3773d838f4f5683e95e9a22936 |
 | utccp-image-vsphere-problem-detector | https://gitee.com/ccps/utccp-image-vsphere-problem-detector/commit/4670aa6314feff0f0a32da041406cbb788119128 |
 | utccp-image-whereabouts-cni | https://gitee.com/ccps/utccp-image-whereabouts-cni/commit/5c4d3a8ac9b47df52b9b76a72c533018a254e719 |
