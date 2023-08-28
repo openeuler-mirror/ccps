@@ -41,7 +41,7 @@
 | utccp-image-cluster-machine-approver | https://gitee.com/ccps/utccp-image-cluster-machine-approver/commit/3c80a789dfefa854c862b742fd0d364a347e959f |
 | utccp-image-cluster-monitoring-operator | https://gitee.com/ccps/utccp-image-cluster-monitoring-operator/commit/c3ec34d931a95226ad7c78958f52e4dae83b2fc3 |
 | utccp-image-cluster-network-operator | https://gitee.com/ccps/utccp-image-cluster-network-operator/commit/edcc4a47b629ff2e837f42db4c09d945f9f18310 |
-| utccp-image-cluster-node-tuning-operator | https://gitee.com/ccps/utccp-image-cluster-node-tuning-operator/commit/f90262684dcdfc1fae64a24056c5ca3c970572f4 |
+| utccp-image-cluster-node-tuning-operator | https://gitee.com/ccps/utccp-image-cluster-node-tuning-operator/commit/5fccb3389a19fc8954e9b36f212cb7153e26df36 |
 | utccp-image-cluster-openshift-apiserver-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-apiserver-operator/commit/0c99e40f125330980bdd58aa26abb6ee909b4934 |
 | utccp-image-cluster-openshift-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-controller-manager-operator/commit/d1139ab61d1789c4586ee3eb2dc60bc69966911d |
 | utccp-image-cluster-policy-controller | https://gitee.com/ccps/utccp-image-cluster-policy-controller/commit/ee3df29d561589d577f496c6d165758226646226 |
@@ -67,7 +67,7 @@
 | utccp-image-driver-toolkit | https://gitee.com/ccps/utccp-image-driver-toolkit/commit/513ac1ffb8909f141a6088b16d46d2631dfd7d02 |
 | utccp-image-egress-router-cni | https://gitee.com/ccps/utccp-image-egress-router-cni/commit/f6fc0e0955a8afb3dc1ee6542a275a69ac42105e |
 | utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/715254bea844397cc292151d5381f2c2475c1c00 |
-| utccp-image-grafana | https://gitee.com/ccps/utccp-image-grafana/commit/3c5c4c41f3772481d3bd8eb30db40eb80a16cfeb |
+| utccp-image-grafana | https://gitee.com/ccps/utccp-image-grafana/commit/4aa63d82c08b2ed5ff065a6dd1c0021629b9edaa |
 | utccp-image-image-customization-controller | https://gitee.com/ccps/utccp-image-image-customization-controller/commit/9ba5ab8668393ff7217f0732f3c858809626bd46 |
 | utccp-image-image-registry | https://gitee.com/ccps/utccp-image-image-registry/commit/e6143745928d05b65d739ef175971fa97909bd97 |
 | utccp-image-images | https://gitee.com/ccps/utccp-image-images/commit/f4c22abcdc8d2dcf4aab9639334ac5e9ce29492d |
