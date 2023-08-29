@@ -49,7 +49,7 @@
 | utccp-image-cluster-storage-operator | https://gitee.com/ccps/utccp-image-cluster-storage-operator/commit/15cc3b554fa371d4718cbaf47b1fcabf8c3f7bde |
 | utccp-image-cluster-update-keys | https://gitee.com/ccps/utccp-image-cluster-update-keys/commit/441029b602ca7533a4be34a3e51be8bef4aa7de6 |
 | utccp-image-cluster-version-operator | https://gitee.com/ccps/utccp-image-cluster-version-operator/commit/109f1f540d4ee91946069d99015b98014d98c09b |
-| utccp-image-configmap-reload | https://gitee.com/ccps/utccp-image-configmap-reload/commit/3a289cdc7cabed2b5164183d3f76afdd6c294872 |
+| utccp-image-configmap-reload | https://gitee.com/ccps/utccp-image-configmap-reload/commit/94584110e9ff8d5f3c09167b37ab9c695ee647be |
 | utccp-image-console | https://gitee.com/ccps/utccp-image-console/commit/5a38f27ad6c55ef3b20823604f2558b70dfa3e55 |
 | utccp-image-console-operator | https://gitee.com/ccps/utccp-image-console-operator/commit/0e4566918794a5fa83a21735fff411d184ed9cb4 |
 | utccp-image-containernetworking-plugins | https://gitee.com/ccps/utccp-image-containernetworking-plugins/commit/521494cb1022cc1e9a73818108353b77ab4dc3df |
