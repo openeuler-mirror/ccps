@@ -129,7 +129,7 @@
 | utccp-image-vmware-vsphere-csi-driver | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver/commit/da9f13c5dba5460558aace6fbcd5d9b15f5a9be5 |
 | utccp-image-vmware-vsphere-csi-driver-operator | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver-operator/commit/5af7abd6e62a794da9843983977220629cd78267 |
 | utccp-image-vsphere-cloud-controller-manager | https://gitee.com/ccps/utccp-image-vsphere-cloud-controller-manager/commit/60218b5ebd341f3773d838f4f5683e95e9a22936 |
-| utccp-image-vsphere-problem-detector | https://gitee.com/ccps/utccp-image-vsphere-problem-detector/commit/4670aa6314feff0f0a32da041406cbb788119128 |
+| utccp-image-vsphere-problem-detector | https://gitee.com/ccps/utccp-image-vsphere-problem-detector/commit/2cbf937257624867139456f693d8f66e12cc16bc |
 | utccp-image-whereabouts-cni | https://gitee.com/ccps/utccp-image-whereabouts-cni/commit/5c4d3a8ac9b47df52b9b76a72c533018a254e719 |
 | utccp-install | https://gitee.com/ccps/utccp-install/commit/64c15ba2509196e5192464a17b53300fc3747d90 |
 | utccp-kuryr | https://gitee.com/ccps/utccp-kuryr/commit/c0bd84042fbbf98dd948c3023a060c12bfe46f74 |
