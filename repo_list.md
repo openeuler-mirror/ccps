@@ -56,7 +56,7 @@
 | utccp-image-coredns | https://gitee.com/ccps/utccp-image-coredns/commit/50ec67d169ee3314448934a43d7e267954279a2a |
 | utccp-image-csi-driver-manila-operator | https://gitee.com/ccps/utccp-image-csi-driver-manila-operator/commit/91fcd5b45835a4bb11adb91709b5e87518c68a31 |
 | utccp-image-csi-driver-nfs | https://gitee.com/ccps/utccp-image-csi-driver-nfs/commit/818c0675a2fe57b3831b2159faf745a0d3ebf25a |
-| utccp-image-csi-driver-shared-resource | https://gitee.com/ccps/utccp-image-csi-driver-shared-resource/commit/a28591947a6f58c432c5a9ce0cb62f767ba024e0 |
+| utccp-image-csi-driver-shared-resource | https://gitee.com/ccps/utccp-image-csi-driver-shared-resource/commit/588105578f5c5027f4fb436533a69ce4a4daaff4 |
 | utccp-image-csi-driver-shared-resource-operator | https://gitee.com/ccps/utccp-image-csi-driver-shared-resource-operator/commit/82c7f3afda91161ebc991eba93b76a2c410c215e |
 | utccp-image-csi-external-attacher | https://gitee.com/ccps/utccp-image-csi-external-attacher/commit/dcffd601e60b58ea764b58cfefe63ab7ada98558 |
 | utccp-image-csi-external-provisioner | https://gitee.com/ccps/utccp-image-csi-external-provisioner/commit/f8f64ba9a9d173372ac3906cb09b722d68912e09 |
