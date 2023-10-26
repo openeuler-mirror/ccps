@@ -59,7 +59,7 @@
 | utccp-image-csi-driver-shared-resource | https://gitee.com/ccps/utccp-image-csi-driver-shared-resource/commit/3a246bc168e99de67de18ecf7a523e8624fdfa07 |
 | utccp-image-csi-driver-shared-resource-operator | https://gitee.com/ccps/utccp-image-csi-driver-shared-resource-operator/commit/7895a1105562104d580bf6c1a4d51473377c5119 |
 | utccp-image-csi-external-attacher | https://gitee.com/ccps/utccp-image-csi-external-attacher/commit/d1e7ec62f548857d9c7905bbe47253717ee4f0db |
-| utccp-image-csi-external-provisioner | https://gitee.com/ccps/utccp-image-csi-external-provisioner/commit/4d7fd121c4a54acb3c9b861e895bf32526a7dde2 |
+| utccp-image-csi-external-provisioner | https://gitee.com/ccps/utccp-image-csi-external-provisioner/commit/8826783a794ba3261c0bcea4e6c6b8190cb551f2 |
 | utccp-image-csi-external-resizer | https://gitee.com/ccps/utccp-image-csi-external-resizer/commit/d6400396c1c361a61b30b41c656be54c5783a04e |
 | utccp-image-csi-external-snapshotter | https://gitee.com/ccps/utccp-image-csi-external-snapshotter/commit/09644be6741fe7da610a2511db8428954fff8a78 |
 | utccp-image-csi-livenessprobe | https://gitee.com/ccps/utccp-image-csi-livenessprobe/commit/7ed1ef34422c51df14913dd65be6cd3836441da0 |
