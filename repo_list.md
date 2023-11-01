@@ -28,7 +28,7 @@
 | utccp-image-cluster-bootstrap | https://gitee.com/ccps/utccp-image-cluster-bootstrap/commit/71316d68298741e493d37b0e457c365244bd89f8 |
 | utccp-image-cluster-capi-operator | https://gitee.com/ccps/utccp-image-cluster-capi-operator/commit/b6920d4862aa9010abc151f83e002c6df856c89a |
 | utccp-image-cluster-cloud-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-cloud-controller-manager-operator/commit/4d1dd1cc20e37a4c06cd572799c120e0ca79b739 |
-| utccp-image-cluster-config-operator | https://gitee.com/ccps/utccp-image-cluster-config-operator/commit/d4e5bc4d815f9dca233d31ca12116322f2ddd96c |
+| utccp-image-cluster-config-operator | https://gitee.com/ccps/utccp-image-cluster-config-operator/commit/1248659285e6a9dd0712556917d9bfbd9d1d7d51 |
 | utccp-image-cluster-csi-snapshot-controller-operator | https://gitee.com/ccps/utccp-image-cluster-csi-snapshot-controller-operator/commit/1b3cb38279716fbf79c1b4a3e9222e444014f85c |
 | utccp-image-cluster-dns-operator | https://gitee.com/ccps/utccp-image-cluster-dns-operator/commit/7cf327a1a473d6dd5257151355533ed08feb8a24 |
 | utccp-image-cluster-etcd-operator | https://gitee.com/ccps/utccp-image-cluster-etcd-operator/commit/46de63b8ae75bc4bfbe28e9d4f281a9114776f04 |
@@ -124,7 +124,7 @@
 | utccp-image-router | https://gitee.com/ccps/utccp-image-router/commit/ff85febc1d37947b2d61c87a0ea17fc7d6f5a356 |
 | utccp-image-sdn | https://gitee.com/ccps/utccp-image-sdn/commit/56ebf88e4cdbc0d7ebc02f78b4d2f3a7feb17e3e |
 | utccp-image-service-ca-operator | https://gitee.com/ccps/utccp-image-service-ca-operator/commit/2138b1a6b84080811bf06bd86b4efddef92c7e5b |
-| utccp-image-telemeter | https://gitee.com/ccps/utccp-image-telemeter/commit/4e8be2872633f6ee9c0febbb40a88ff28258de00 |
+| utccp-image-telemeter | https://gitee.com/ccps/utccp-image-telemeter/commit/70831ae4a78182c9b1cef94af4ff99e6341c764a |
 | utccp-image-thanos | https://gitee.com/ccps/utccp-image-thanos/commit/98a2fa61e15815c5611adda9541627e0464a5c7b |
 | utccp-image-vmware-vsphere-csi-driver | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver/commit/da9f13c5dba5460558aace6fbcd5d9b15f5a9be5 |
 | utccp-image-vmware-vsphere-csi-driver-operator | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver-operator/commit/12a9f329b898115cd71a180eb530b7307914af91 |
