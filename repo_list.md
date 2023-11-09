@@ -66,7 +66,7 @@
 | utccp-image-csi-node-driver-registrar | https://gitee.com/ccps/utccp-image-csi-node-driver-registrar/commit/f53352ef390451460402fd65a5f52c5994dade5d |
 | utccp-image-driver-toolkit | https://gitee.com/ccps/utccp-image-driver-toolkit/commit/513ac1ffb8909f141a6088b16d46d2631dfd7d02 |
 | utccp-image-egress-router-cni | https://gitee.com/ccps/utccp-image-egress-router-cni/commit/f6fc0e0955a8afb3dc1ee6542a275a69ac42105e |
-| utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/2cd740ba199fb3c4bff7c70a11687d9f2c8133b3 |
+| utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/da250243590927e5c8a5d76e346e851c528fc3db |
 | utccp-image-grafana | https://gitee.com/ccps/utccp-image-grafana/commit/4aa63d82c08b2ed5ff065a6dd1c0021629b9edaa |
 | utccp-image-image-customization-controller | https://gitee.com/ccps/utccp-image-image-customization-controller/commit/9ba5ab8668393ff7217f0732f3c858809626bd46 |
 | utccp-image-image-registry | https://gitee.com/ccps/utccp-image-image-registry/commit/e6143745928d05b65d739ef175971fa97909bd97 |
@@ -91,7 +91,7 @@
 | utccp-image-multus-admission-controller | https://gitee.com/ccps/utccp-image-multus-admission-controller/commit/ad2f78cae02f589e79e5acb6a7402fcdcfcea471 |
 | utccp-image-multus-cni | https://gitee.com/ccps/utccp-image-multus-cni/commit/64e26184ca58538420606bc01d1100319cf6bd87 |
 | utccp-image-multus-networkpolicy | https://gitee.com/ccps/utccp-image-multus-networkpolicy/commit/71dd50acab38431973473a4a8ccbf4003e667efc |
-| utccp-image-must-gather | https://gitee.com/ccps/utccp-image-must-gather/commit/745ff76a659363d1946bacf65efe6db10b20b8d3 |
+| utccp-image-must-gather | https://gitee.com/ccps/utccp-image-must-gather/commit/4df57e0bfe128dce62d8d7ca0e2cd14200d7f811 |
 | utccp-image-network-interface-bond-cni | https://gitee.com/ccps/utccp-image-network-interface-bond-cni/commit/7e338d105fbab66688083d1738453919a88cc146 |
 | utccp-image-network-metrics-daemon | https://gitee.com/ccps/utccp-image-network-metrics-daemon/commit/d969c7e19f312ff3af5f8a487c4a07114a7cd74f |
 | utccp-image-network-tools | https://gitee.com/ccps/utccp-image-network-tools/commit/7755493ed8491593573d5f73501fb6e538e4cacd |
