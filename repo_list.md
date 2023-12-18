@@ -70,7 +70,7 @@
 | utccp-image-grafana | https://gitee.com/ccps/utccp-image-grafana/commit/4aa63d82c08b2ed5ff065a6dd1c0021629b9edaa |
 | utccp-image-image-customization-controller | https://gitee.com/ccps/utccp-image-image-customization-controller/commit/9ba5ab8668393ff7217f0732f3c858809626bd46 |
 | utccp-image-image-registry | https://gitee.com/ccps/utccp-image-image-registry/commit/e6143745928d05b65d739ef175971fa97909bd97 |
-| utccp-image-images | https://gitee.com/ccps/utccp-image-images/commit/f4c22abcdc8d2dcf4aab9639334ac5e9ce29492d |
+| utccp-image-images | https://gitee.com/ccps/utccp-image-images/commit/2f7d557c78308a98aa34bb5c33faca925a2f96b7 |
 | utccp-image-installer | https://gitee.com/ccps/utccp-image-installer/commit/3f1a789057ca19f6c17e062072823f6736f28f78 |
 | utccp-image-ironic-agent | https://gitee.com/ccps/utccp-image-ironic-agent/commit/e540b7d3a7ea1c636a2b7bd0e4f6e20db85dc984 |
 | utccp-image-ironic-hardware-inventory-recorder-image | https://gitee.com/ccps/utccp-image-ironic-hardware-inventory-recorder-image/commit/b0268105689d6ebd050246f796067c5c10d19269 |
