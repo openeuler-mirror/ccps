@@ -123,7 +123,7 @@
 | utccp-image-route-override-cni | https://gitee.com/ccps/utccp-image-route-override-cni/commit/48dd43b876ce5a464c6c13ead81f7e0b16ff14f3 |
 | utccp-image-router | https://gitee.com/ccps/utccp-image-router/commit/ff85febc1d37947b2d61c87a0ea17fc7d6f5a356 |
 | utccp-image-sdn | https://gitee.com/ccps/utccp-image-sdn/commit/56ebf88e4cdbc0d7ebc02f78b4d2f3a7feb17e3e |
-| utccp-image-service-ca-operator | https://gitee.com/ccps/utccp-image-service-ca-operator/commit/2138b1a6b84080811bf06bd86b4efddef92c7e5b |
+| utccp-image-service-ca-operator | https://gitee.com/ccps/utccp-image-service-ca-operator/commit/56a504830c0ff0c225ec6eb6e681d7292996cabf |
 | utccp-image-telemeter | https://gitee.com/ccps/utccp-image-telemeter/commit/70831ae4a78182c9b1cef94af4ff99e6341c764a |
 | utccp-image-thanos | https://gitee.com/ccps/utccp-image-thanos/commit/98a2fa61e15815c5611adda9541627e0464a5c7b |
 | utccp-image-vmware-vsphere-csi-driver | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver/commit/da9f13c5dba5460558aace6fbcd5d9b15f5a9be5 |
