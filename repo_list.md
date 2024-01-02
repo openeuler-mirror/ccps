@@ -94,7 +94,7 @@
 | utccp-image-must-gather | https://gitee.com/ccps/utccp-image-must-gather/commit/0cbe49873d7cc69153fe1560902757ec8b523443 |
 | utccp-image-network-interface-bond-cni | https://gitee.com/ccps/utccp-image-network-interface-bond-cni/commit/7e338d105fbab66688083d1738453919a88cc146 |
 | utccp-image-network-metrics-daemon | https://gitee.com/ccps/utccp-image-network-metrics-daemon/commit/d969c7e19f312ff3af5f8a487c4a07114a7cd74f |
-| utccp-image-network-tools | https://gitee.com/ccps/utccp-image-network-tools/commit/a6f95b93daf4a22b9074967ad7c7b25fa1a80c95 |
+| utccp-image-network-tools | https://gitee.com/ccps/utccp-image-network-tools/commit/efce1af8f5fd433a60dcad149048f7ed12721e52 |
 | utccp-image-node_exporter | https://gitee.com/ccps/utccp-image-node_exporter/commit/d7172d7b5c6a19f937a4a84bdad987a454199896 |
 | utccp-image-oauth-apiserver | https://gitee.com/ccps/utccp-image-oauth-apiserver/commit/da4fe4a0f2fa3273629e01d6adc2fcbcfc7cf65c |
 | utccp-image-oauth-proxy | https://gitee.com/ccps/utccp-image-oauth-proxy/commit/c503d2bc687b167dae3e61d680b5ce12c9ef07ee |
