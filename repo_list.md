@@ -98,7 +98,7 @@
 | utccp-image-node_exporter | https://gitee.com/ccps/utccp-image-node_exporter/commit/d7172d7b5c6a19f937a4a84bdad987a454199896 |
 | utccp-image-oauth-apiserver | https://gitee.com/ccps/utccp-image-oauth-apiserver/commit/da4fe4a0f2fa3273629e01d6adc2fcbcfc7cf65c |
 | utccp-image-oauth-proxy | https://gitee.com/ccps/utccp-image-oauth-proxy/commit/c503d2bc687b167dae3e61d680b5ce12c9ef07ee |
-| utccp-image-oauth-server | https://gitee.com/ccps/utccp-image-oauth-server/commit/1eab222deddb304c32e8cbd391ea03796b33fa5d |
+| utccp-image-oauth-server | https://gitee.com/ccps/utccp-image-oauth-server/commit/1a768f1462ea661919d0555d9bda333d363d1e83 |
 | utccp-image-oc | https://gitee.com/ccps/utccp-image-oc/commit/85431b745260e189c929ff941026e35aceb0e6b0 |
 | utccp-image-oc-mirror-plugin | https://gitee.com/ccps/utccp-image-oc-mirror-plugin/commit/cdfa35cfce8495deb23a2951c263ca2f35bf6bf5 |
 | utccp-image-openshift-apiserver | https://gitee.com/ccps/utccp-image-openshift-apiserver/commit/095857026c8703349b439fc5b8e4ba7a0c416453 |
