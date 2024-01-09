@@ -110,7 +110,7 @@
 | utccp-image-operator-lifecycle-manager | https://gitee.com/ccps/utccp-image-operator-lifecycle-manager/commit/8ca07f4d204144eaadb48f94d4d0859816427819 |
 | utccp-image-operator-marketplace | https://gitee.com/ccps/utccp-image-operator-marketplace/commit/b0a88c44bc9ca85913d50867826d040899012822 |
 | utccp-image-operator-registry | https://gitee.com/ccps/utccp-image-operator-registry/commit/612f4f22953cd29252491c48a1c62f057e1b2fd1 |
-| utccp-image-origin | https://gitee.com/ccps/utccp-image-origin/commit/657baf845c091c072aff2a5eddfa2a3dfed39f38 |
+| utccp-image-origin | https://gitee.com/ccps/utccp-image-origin/commit/be48ea312f226747568c2f1e11aa07b251846483 |
 | utccp-image-ovirt-csi-driver | https://gitee.com/ccps/utccp-image-ovirt-csi-driver/commit/cf5c019eab4b9cf06f270b768e240fa18aa64aaf |
 | utccp-image-ovirt-csi-driver-operator | https://gitee.com/ccps/utccp-image-ovirt-csi-driver-operator/commit/11a040f1a6b5eeb5760bd9cc4b18c90683e79915 |
 | utccp-image-ovn-kubernetes | https://gitee.com/ccps/utccp-image-ovn-kubernetes/commit/2a6b8a43cb6b13d858d98561fbcafceb53f6682e |
