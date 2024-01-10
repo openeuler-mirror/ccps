@@ -7,7 +7,7 @@
 | utccp-helm | https://gitee.com/ccps/utccp-helm/commit/87ba7cb7f75200a098fb2628ec4ff60a8bd395ef |
 | utccp-ignition | https://gitee.com/ccps/utccp-ignition/commit/f31e4e30d91403d1df421d1bfb03029e38c4ca26 |
 | utccp-image-alibaba-cloud-controller-manager | https://gitee.com/ccps/utccp-image-alibaba-cloud-controller-manager/commit/26c779dc7a767c338e6a720946888d226ccf7f25 |
-| utccp-image-alibaba-cloud-csi-driver | https://gitee.com/ccps/utccp-image-alibaba-cloud-csi-driver/commit/5f17ef799328c420c632084b4911772b7295ee8a |
+| utccp-image-alibaba-cloud-csi-driver | https://gitee.com/ccps/utccp-image-alibaba-cloud-csi-driver/commit/4566df48f4d46e7e02d6fdae4ca0d4da3860a652 |
 | utccp-image-alibaba-disk-csi-driver-operator | https://gitee.com/ccps/utccp-image-alibaba-disk-csi-driver-operator/commit/034408c8a9702acfb1c080fc40affd30447d6528 |
 | utccp-image-alibaba-machine-controllers | https://gitee.com/ccps/utccp-image-alibaba-machine-controllers/commit/9e4c4b547e5cd53b9deac64da6bfc2d1811c34ef |
 | utccp-image-baremetal-operator | https://gitee.com/ccps/utccp-image-baremetal-operator/commit/4785d1e0404bbc49152fe4237c9975e29a97fc81 |
@@ -100,7 +100,7 @@
 | utccp-image-oauth-proxy | https://gitee.com/ccps/utccp-image-oauth-proxy/commit/c503d2bc687b167dae3e61d680b5ce12c9ef07ee |
 | utccp-image-oauth-server | https://gitee.com/ccps/utccp-image-oauth-server/commit/1a768f1462ea661919d0555d9bda333d363d1e83 |
 | utccp-image-oc | https://gitee.com/ccps/utccp-image-oc/commit/85431b745260e189c929ff941026e35aceb0e6b0 |
-| utccp-image-oc-mirror-plugin | https://gitee.com/ccps/utccp-image-oc-mirror-plugin/commit/cdfa35cfce8495deb23a2951c263ca2f35bf6bf5 |
+| utccp-image-oc-mirror-plugin | https://gitee.com/ccps/utccp-image-oc-mirror-plugin/commit/fdba32a789330f5aa3b6ff40f8328e82ca31c7bb |
 | utccp-image-openshift-apiserver | https://gitee.com/ccps/utccp-image-openshift-apiserver/commit/095857026c8703349b439fc5b8e4ba7a0c416453 |
 | utccp-image-openshift-controller-manager | https://gitee.com/ccps/utccp-image-openshift-controller-manager/commit/7f6499966b695f42495d17834aa6894961fbe578 |
 | utccp-image-openshift-state-metrics | https://gitee.com/ccps/utccp-image-openshift-state-metrics/commit/fc2ef328898eb6bd343990732f14d9329b7e8540 |
