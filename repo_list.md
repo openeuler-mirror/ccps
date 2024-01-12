@@ -76,7 +76,7 @@
 | utccp-image-ironic-hardware-inventory-recorder-image | https://gitee.com/ccps/utccp-image-ironic-hardware-inventory-recorder-image/commit/b0268105689d6ebd050246f796067c5c10d19269 |
 | utccp-image-ironic-image | https://gitee.com/ccps/utccp-image-ironic-image/commit/13aa189710006bfb64f1c4fda5d15906c40813e4 |
 | utccp-image-ironic-rhcos-downloader | https://gitee.com/ccps/utccp-image-ironic-rhcos-downloader/commit/e563dc4e453147558195968c02b4d9d879925bc2 |
-| utccp-image-ironic-static-ip-manager | https://gitee.com/ccps/utccp-image-ironic-static-ip-manager/commit/e3d93ec5e6fcf66a7834a348e350a68d44474267 |
+| utccp-image-ironic-static-ip-manager | https://gitee.com/ccps/utccp-image-ironic-static-ip-manager/commit/4b3e4abcd271fc08cb93168c7112b3448976c74a |
 | utccp-image-k8s-prometheus-adapter | https://gitee.com/ccps/utccp-image-k8s-prometheus-adapter/commit/191399c1ddbedb3d72282cbab2a0f58bb3ed9ec1 |
 | utccp-image-kube-rbac-proxy | https://gitee.com/ccps/utccp-image-kube-rbac-proxy/commit/0393437d2db0e4d5bf56067ecb87104a340ffe43 |
 | utccp-image-kube-state-metrics | https://gitee.com/ccps/utccp-image-kube-state-metrics/commit/85f07da91592665443ff36c7f593f511b53b0078 |
