@@ -32,7 +32,7 @@
 | utccp-image-cluster-csi-snapshot-controller-operator | https://gitee.com/ccps/utccp-image-cluster-csi-snapshot-controller-operator/commit/1b3cb38279716fbf79c1b4a3e9222e444014f85c |
 | utccp-image-cluster-dns-operator | https://gitee.com/ccps/utccp-image-cluster-dns-operator/commit/7cf327a1a473d6dd5257151355533ed08feb8a24 |
 | utccp-image-cluster-etcd-operator | https://gitee.com/ccps/utccp-image-cluster-etcd-operator/commit/46de63b8ae75bc4bfbe28e9d4f281a9114776f04 |
-| utccp-image-cluster-image-registry-operator | https://gitee.com/ccps/utccp-image-cluster-image-registry-operator/commit/ad1fd9911f76933c4d036cae6bd53c2a544b7161 |
+| utccp-image-cluster-image-registry-operator | https://gitee.com/ccps/utccp-image-cluster-image-registry-operator/commit/76a50c08540e8bcf94891adee2984aa2f3465287 |
 | utccp-image-cluster-ingress-operator | https://gitee.com/ccps/utccp-image-cluster-ingress-operator/commit/c9aa1a3f55f4677e21c260420891f4ef779a6c4b |
 | utccp-image-cluster-kube-apiserver-operator | https://gitee.com/ccps/utccp-image-cluster-kube-apiserver-operator/commit/b255c5fbd6fce7b3581921024d7b7f3ba16e31bd |
 | utccp-image-cluster-kube-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-kube-controller-manager-operator/commit/9aae15caf6760c6c8754360e3608c71f9162a034 |
