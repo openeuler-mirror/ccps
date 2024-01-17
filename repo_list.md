@@ -7,7 +7,7 @@
 | utccp-helm | https://gitee.com/ccps/utccp-helm/commit/87ba7cb7f75200a098fb2628ec4ff60a8bd395ef |
 | utccp-ignition | https://gitee.com/ccps/utccp-ignition/commit/f31e4e30d91403d1df421d1bfb03029e38c4ca26 |
 | utccp-image-alibaba-cloud-controller-manager | https://gitee.com/ccps/utccp-image-alibaba-cloud-controller-manager/commit/26c779dc7a767c338e6a720946888d226ccf7f25 |
-| utccp-image-alibaba-cloud-csi-driver | https://gitee.com/ccps/utccp-image-alibaba-cloud-csi-driver/commit/4566df48f4d46e7e02d6fdae4ca0d4da3860a652 |
+| utccp-image-alibaba-cloud-csi-driver | https://gitee.com/ccps/utccp-image-alibaba-cloud-csi-driver/commit/24a58f2ad13bc22fd88124135a1313ee3ec8d02a |
 | utccp-image-alibaba-disk-csi-driver-operator | https://gitee.com/ccps/utccp-image-alibaba-disk-csi-driver-operator/commit/8d9b355486b8eb192de7d8211c6788bc80dfa069 |
 | utccp-image-alibaba-machine-controllers | https://gitee.com/ccps/utccp-image-alibaba-machine-controllers/commit/88c11160790efc3d2e31f12f4900f55e589663c2 |
 | utccp-image-baremetal-operator | https://gitee.com/ccps/utccp-image-baremetal-operator/commit/4785d1e0404bbc49152fe4237c9975e29a97fc81 |
