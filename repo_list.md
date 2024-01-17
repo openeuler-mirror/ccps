@@ -65,7 +65,7 @@
 | utccp-image-csi-livenessprobe | https://gitee.com/ccps/utccp-image-csi-livenessprobe/commit/95637b655316db31da4b3b09bae540caaa6e73dd |
 | utccp-image-csi-node-driver-registrar | https://gitee.com/ccps/utccp-image-csi-node-driver-registrar/commit/f53352ef390451460402fd65a5f52c5994dade5d |
 | utccp-image-driver-toolkit | https://gitee.com/ccps/utccp-image-driver-toolkit/commit/513ac1ffb8909f141a6088b16d46d2631dfd7d02 |
-| utccp-image-egress-router-cni | https://gitee.com/ccps/utccp-image-egress-router-cni/commit/2fc7865060d0c6a5792716f993697fab4cbe63a0 |
+| utccp-image-egress-router-cni | https://gitee.com/ccps/utccp-image-egress-router-cni/commit/8f62b2ba51e521c472ad253f88538ce336a178e4 |
 | utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/38954d15d971ff3f1ec83c7367250a2b468b885d |
 | utccp-image-grafana | https://gitee.com/ccps/utccp-image-grafana/commit/36b12a69ae526c79097f241d76ec7dfb361b458c |
 | utccp-image-image-customization-controller | https://gitee.com/ccps/utccp-image-image-customization-controller/commit/7be58db4daa92cb6a9f187d17c79adaacecb2742 |
