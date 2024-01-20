@@ -91,7 +91,7 @@
 | utccp-image-multus-admission-controller | https://gitee.com/ccps/utccp-image-multus-admission-controller/commit/ad2f78cae02f589e79e5acb6a7402fcdcfcea471 |
 | utccp-image-multus-cni | https://gitee.com/ccps/utccp-image-multus-cni/commit/f5eb8ab28baed27db0645eea3538b18fbbd14175 |
 | utccp-image-multus-networkpolicy | https://gitee.com/ccps/utccp-image-multus-networkpolicy/commit/71dd50acab38431973473a4a8ccbf4003e667efc |
-| utccp-image-must-gather | https://gitee.com/ccps/utccp-image-must-gather/commit/687c6a37c044900974564d06585591c0aa2e0e29 |
+| utccp-image-must-gather | https://gitee.com/ccps/utccp-image-must-gather/commit/1ac4bc22c6982d38f1ea86c770f48d14f83d6471 |
 | utccp-image-network-interface-bond-cni | https://gitee.com/ccps/utccp-image-network-interface-bond-cni/commit/7e338d105fbab66688083d1738453919a88cc146 |
 | utccp-image-network-metrics-daemon | https://gitee.com/ccps/utccp-image-network-metrics-daemon/commit/d3c1b0e7189845fd544ad2c572ca214ff890e146 |
 | utccp-image-network-tools | https://gitee.com/ccps/utccp-image-network-tools/commit/6cca16fafcc75c92af5a89c0ea39604580b54ebf |
