@@ -126,7 +126,7 @@
 | utccp-image-service-ca-operator | https://gitee.com/ccps/utccp-image-service-ca-operator/commit/56a504830c0ff0c225ec6eb6e681d7292996cabf |
 | utccp-image-telemeter | https://gitee.com/ccps/utccp-image-telemeter/commit/70831ae4a78182c9b1cef94af4ff99e6341c764a |
 | utccp-image-thanos | https://gitee.com/ccps/utccp-image-thanos/commit/98a2fa61e15815c5611adda9541627e0464a5c7b |
-| utccp-image-vmware-vsphere-csi-driver | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver/commit/da9f13c5dba5460558aace6fbcd5d9b15f5a9be5 |
+| utccp-image-vmware-vsphere-csi-driver | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver/commit/a1bf065dc8385156425e29de597dae56cad78ce5 |
 | utccp-image-vmware-vsphere-csi-driver-operator | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver-operator/commit/12a9f329b898115cd71a180eb530b7307914af91 |
 | utccp-image-vsphere-cloud-controller-manager | https://gitee.com/ccps/utccp-image-vsphere-cloud-controller-manager/commit/60218b5ebd341f3773d838f4f5683e95e9a22936 |
 | utccp-image-vsphere-problem-detector | https://gitee.com/ccps/utccp-image-vsphere-problem-detector/commit/2cbf937257624867139456f693d8f66e12cc16bc |
