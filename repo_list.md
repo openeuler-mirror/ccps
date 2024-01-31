@@ -69,7 +69,7 @@
 | utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/38954d15d971ff3f1ec83c7367250a2b468b885d |
 | utccp-image-grafana | https://gitee.com/ccps/utccp-image-grafana/commit/d796a7fc4ba4d948ee56a5d24f2d8c2b7be77671 |
 | utccp-image-image-customization-controller | https://gitee.com/ccps/utccp-image-image-customization-controller/commit/d03827d40567b7f2071279e98ef0eb81ffb3bf11 |
-| utccp-image-image-registry | https://gitee.com/ccps/utccp-image-image-registry/commit/e6143745928d05b65d739ef175971fa97909bd97 |
+| utccp-image-image-registry | https://gitee.com/ccps/utccp-image-image-registry/commit/77f479c6b88fb2307a54643ff32cc4c3fdf0dcd2 |
 | utccp-image-images | https://gitee.com/ccps/utccp-image-images/commit/2f7d557c78308a98aa34bb5c33faca925a2f96b7 |
 | utccp-image-installer | https://gitee.com/ccps/utccp-image-installer/commit/3f1a789057ca19f6c17e062072823f6736f28f78 |
 | utccp-image-ironic-agent | https://gitee.com/ccps/utccp-image-ironic-agent/commit/e540b7d3a7ea1c636a2b7bd0e4f6e20db85dc984 |
