@@ -20,7 +20,7 @@
 | utccp-image-cluster-api-provider-baremetal | https://gitee.com/ccps/utccp-image-cluster-api-provider-baremetal/commit/a983914c9fea2bf525c8d580976062d67563375b |
 | utccp-image-cluster-api-provider-libvirt | https://gitee.com/ccps/utccp-image-cluster-api-provider-libvirt/commit/f2c0f3685bc68dd4f0fd744f0b8a03c46a2b452d |
 | utccp-image-cluster-api-provider-openstack | https://gitee.com/ccps/utccp-image-cluster-api-provider-openstack/commit/3f476700ee6f0ab9abc4ae580a4422f53d0b271d |
-| utccp-image-cluster-api-provider-ovirt | https://gitee.com/ccps/utccp-image-cluster-api-provider-ovirt/commit/5702009481fa55e495bff1d7ad32cdcb2ab93bf0 |
+| utccp-image-cluster-api-provider-ovirt | https://gitee.com/ccps/utccp-image-cluster-api-provider-ovirt/commit/26b7456dd74ebb6ea961c43b9ed0eb88941fb9de |
 | utccp-image-cluster-authentication-operator | https://gitee.com/ccps/utccp-image-cluster-authentication-operator/commit/99c8062f2a041b5855dab7cb22f4cb7a3fa906e0 |
 | utccp-image-cluster-autoscaler | https://gitee.com/ccps/utccp-image-cluster-autoscaler/commit/e0052e4144ac409c58b7e0a9efd720a0b788ac76 |
 | utccp-image-cluster-autoscaler-operator | https://gitee.com/ccps/utccp-image-cluster-autoscaler-operator/commit/68c402376b538e5faaeaa1f0e7d938f3002d52c8 |
