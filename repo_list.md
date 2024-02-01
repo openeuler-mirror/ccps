@@ -93,7 +93,7 @@
 | utccp-image-multus-networkpolicy | https://gitee.com/ccps/utccp-image-multus-networkpolicy/commit/71dd50acab38431973473a4a8ccbf4003e667efc |
 | utccp-image-must-gather | https://gitee.com/ccps/utccp-image-must-gather/commit/0ec0f8e3c8f6533461528cf2cc3b45413a6142e3 |
 | utccp-image-network-interface-bond-cni | https://gitee.com/ccps/utccp-image-network-interface-bond-cni/commit/7e338d105fbab66688083d1738453919a88cc146 |
-| utccp-image-network-metrics-daemon | https://gitee.com/ccps/utccp-image-network-metrics-daemon/commit/767eba9d417dfbf2d4d650d3fd8632ae9d870f44 |
+| utccp-image-network-metrics-daemon | https://gitee.com/ccps/utccp-image-network-metrics-daemon/commit/3358398e8db6181405777bd89607623d8ebe15da |
 | utccp-image-network-tools | https://gitee.com/ccps/utccp-image-network-tools/commit/6cca16fafcc75c92af5a89c0ea39604580b54ebf |
 | utccp-image-node_exporter | https://gitee.com/ccps/utccp-image-node_exporter/commit/5ef9273d823a6bd9423fa0e909bbba6bf29aa419 |
 | utccp-image-oauth-apiserver | https://gitee.com/ccps/utccp-image-oauth-apiserver/commit/e16cda4576bfe8ebee54956634f5728effc17c0c |
