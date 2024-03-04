@@ -121,7 +121,7 @@
 | utccp-image-prometheus-operator | https://gitee.com/ccps/utccp-image-prometheus-operator/commit/07d494fb1437fd8a559ef393f52844751f9fc550 |
 | utccp-image-release | https://gitee.com/ccps/utccp-image-release/commit/b728014926137a710bb7b05ee8a569bf0de19f33 |
 | utccp-image-route-override-cni | https://gitee.com/ccps/utccp-image-route-override-cni/commit/48dd43b876ce5a464c6c13ead81f7e0b16ff14f3 |
-| utccp-image-router | https://gitee.com/ccps/utccp-image-router/commit/ff85febc1d37947b2d61c87a0ea17fc7d6f5a356 |
+| utccp-image-router | https://gitee.com/ccps/utccp-image-router/commit/8970c04608dec636a7b73c502322c56ec2be89ae |
 | utccp-image-sdn | https://gitee.com/ccps/utccp-image-sdn/commit/56ebf88e4cdbc0d7ebc02f78b4d2f3a7feb17e3e |
 | utccp-image-service-ca-operator | https://gitee.com/ccps/utccp-image-service-ca-operator/commit/56a504830c0ff0c225ec6eb6e681d7292996cabf |
 | utccp-image-telemeter | https://gitee.com/ccps/utccp-image-telemeter/commit/70831ae4a78182c9b1cef94af4ff99e6341c764a |
