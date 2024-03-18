@@ -10,7 +10,7 @@
 | utccp-image-alibaba-cloud-csi-driver | https://gitee.com/ccps/utccp-image-alibaba-cloud-csi-driver/commit/689ed3aa95d48853928d4f49982161698dc00c7c |
 | utccp-image-alibaba-disk-csi-driver-operator | https://gitee.com/ccps/utccp-image-alibaba-disk-csi-driver-operator/commit/ada77951aa1843b17ebfeea5a531dffaa754c6d3 |
 | utccp-image-alibaba-machine-controllers | https://gitee.com/ccps/utccp-image-alibaba-machine-controllers/commit/eb3d3d202ddd88de6ee956c4951ae80a4691fb76 |
-| utccp-image-baremetal-operator | https://gitee.com/ccps/utccp-image-baremetal-operator/commit/138a7e311939dd4167ca1d62defeea7abd0d98de |
+| utccp-image-baremetal-operator | https://gitee.com/ccps/utccp-image-baremetal-operator/commit/1722e26e2593670fb1c3bddb6daf26f3ff3bb2f1 |
 | utccp-image-baremetal-runtimecfg | https://gitee.com/ccps/utccp-image-baremetal-runtimecfg/commit/8211c451382ed5e726dd63c893c565ac3e8452ae |
 | utccp-image-builder | https://gitee.com/ccps/utccp-image-builder/commit/4f666602c28d1aec81c4247440ddb2cf62337113 |
 | utccp-image-cloud-credential-operator | https://gitee.com/ccps/utccp-image-cloud-credential-operator/commit/826426a4faf7d180c2a83e4914d300b40925d85b |
