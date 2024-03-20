@@ -36,7 +36,7 @@
 | utccp-image-cluster-ingress-operator | https://gitee.com/ccps/utccp-image-cluster-ingress-operator/commit/c9aa1a3f55f4677e21c260420891f4ef779a6c4b |
 | utccp-image-cluster-kube-apiserver-operator | https://gitee.com/ccps/utccp-image-cluster-kube-apiserver-operator/commit/e0ad06d330d90188f3f8e23ba3ff8952f3d51a9a |
 | utccp-image-cluster-kube-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-kube-controller-manager-operator/commit/9aae15caf6760c6c8754360e3608c71f9162a034 |
-| utccp-image-cluster-kube-scheduler-operator | https://gitee.com/ccps/utccp-image-cluster-kube-scheduler-operator/commit/f53aa7c43fb4b8f1bd3b3b106b8a025b21c620b4 |
+| utccp-image-cluster-kube-scheduler-operator | https://gitee.com/ccps/utccp-image-cluster-kube-scheduler-operator/commit/576f2acf79aba0a3d774929334f5f3459b58bcc1 |
 | utccp-image-cluster-kube-storage-version-migrator-operator | https://gitee.com/ccps/utccp-image-cluster-kube-storage-version-migrator-operator/commit/466de79db9df5c5dc9ea875a058f1d7708777dd6 |
 | utccp-image-cluster-machine-approver | https://gitee.com/ccps/utccp-image-cluster-machine-approver/commit/f41ef5e11cc271e6b1472e7122a3b47a7232d9db |
 | utccp-image-cluster-monitoring-operator | https://gitee.com/ccps/utccp-image-cluster-monitoring-operator/commit/c3ec34d931a95226ad7c78958f52e4dae83b2fc3 |
@@ -66,7 +66,7 @@
 | utccp-image-csi-node-driver-registrar | https://gitee.com/ccps/utccp-image-csi-node-driver-registrar/commit/be9349879f16ad08cc9a89d1087ae25ce1e78d6b |
 | utccp-image-driver-toolkit | https://gitee.com/ccps/utccp-image-driver-toolkit/commit/513ac1ffb8909f141a6088b16d46d2631dfd7d02 |
 | utccp-image-egress-router-cni | https://gitee.com/ccps/utccp-image-egress-router-cni/commit/8f62b2ba51e521c472ad253f88538ce336a178e4 |
-| utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/87e536674a96d7941f8c225b97e82e2fc03b7ff0 |
+| utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/8d1116630f70abfe8803ddce4435b64e8d8644a3 |
 | utccp-image-grafana | https://gitee.com/ccps/utccp-image-grafana/commit/d796a7fc4ba4d948ee56a5d24f2d8c2b7be77671 |
 | utccp-image-image-customization-controller | https://gitee.com/ccps/utccp-image-image-customization-controller/commit/d03827d40567b7f2071279e98ef0eb81ffb3bf11 |
 | utccp-image-image-registry | https://gitee.com/ccps/utccp-image-image-registry/commit/1530b0f7265905dd3876f7665e370052ecb6fee5 |
