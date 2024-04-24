@@ -31,7 +31,7 @@
 | utccp-image-cluster-config-operator | https://gitee.com/ccps/utccp-image-cluster-config-operator/commit/1248659285e6a9dd0712556917d9bfbd9d1d7d51 |
 | utccp-image-cluster-csi-snapshot-controller-operator | https://gitee.com/ccps/utccp-image-cluster-csi-snapshot-controller-operator/commit/1b3cb38279716fbf79c1b4a3e9222e444014f85c |
 | utccp-image-cluster-dns-operator | https://gitee.com/ccps/utccp-image-cluster-dns-operator/commit/1eaf252281f2b89df6ed11854bfbbc48ad4fb6f5 |
-| utccp-image-cluster-etcd-operator | https://gitee.com/ccps/utccp-image-cluster-etcd-operator/commit/a9f604c8aff636e73e9041f438ffcd149b33f7e8 |
+| utccp-image-cluster-etcd-operator | https://gitee.com/ccps/utccp-image-cluster-etcd-operator/commit/fee67da51f2ac04c8a659c54570b3911dca97ad0 |
 | utccp-image-cluster-image-registry-operator | https://gitee.com/ccps/utccp-image-cluster-image-registry-operator/commit/76a50c08540e8bcf94891adee2984aa2f3465287 |
 | utccp-image-cluster-ingress-operator | https://gitee.com/ccps/utccp-image-cluster-ingress-operator/commit/c9aa1a3f55f4677e21c260420891f4ef779a6c4b |
 | utccp-image-cluster-kube-apiserver-operator | https://gitee.com/ccps/utccp-image-cluster-kube-apiserver-operator/commit/e0ad06d330d90188f3f8e23ba3ff8952f3d51a9a |
@@ -112,7 +112,7 @@
 | utccp-image-operator-registry | https://gitee.com/ccps/utccp-image-operator-registry/commit/a137cbb4869b5bd0b1ef3f7ed1d42af488fff48d |
 | utccp-image-origin | https://gitee.com/ccps/utccp-image-origin/commit/6d6169e83e84f6be873443fe9d5317622a841710 |
 | utccp-image-ovirt-csi-driver | https://gitee.com/ccps/utccp-image-ovirt-csi-driver/commit/cf5c019eab4b9cf06f270b768e240fa18aa64aaf |
-| utccp-image-ovirt-csi-driver-operator | https://gitee.com/ccps/utccp-image-ovirt-csi-driver-operator/commit/5ddd0deb0d03a75472b95ba75e530c3af83d8d57 |
+| utccp-image-ovirt-csi-driver-operator | https://gitee.com/ccps/utccp-image-ovirt-csi-driver-operator/commit/a56b1a6ea5e7c62d97a2cdbe99b56fd0f16266ca |
 | utccp-image-ovn-kubernetes | https://gitee.com/ccps/utccp-image-ovn-kubernetes/commit/adec9a96737040d6cc2f1122e2cf3819ff0b6036 |
 | utccp-image-powervs-machine-controllers | https://gitee.com/ccps/utccp-image-powervs-machine-controllers/commit/2204ed5f04cafe3448bc2240a37f4990d75172d3 |
 | utccp-image-prom-label-proxy | https://gitee.com/ccps/utccp-image-prom-label-proxy/commit/9bbdc562f25ba46f1beb166cb79f8acce639c2c9 |
