@@ -72,7 +72,7 @@
 | utccp-image-image-registry | https://gitee.com/ccps/utccp-image-image-registry/commit/1530b0f7265905dd3876f7665e370052ecb6fee5 |
 | utccp-image-images | https://gitee.com/ccps/utccp-image-images/commit/2f7d557c78308a98aa34bb5c33faca925a2f96b7 |
 | utccp-image-installer | https://gitee.com/ccps/utccp-image-installer/commit/3f1a789057ca19f6c17e062072823f6736f28f78 |
-| utccp-image-ironic-agent | https://gitee.com/ccps/utccp-image-ironic-agent/commit/e540b7d3a7ea1c636a2b7bd0e4f6e20db85dc984 |
+| utccp-image-ironic-agent | https://gitee.com/ccps/utccp-image-ironic-agent/commit/2d15ae9913122b7480bc94b0c7c9f6dbc0f1c0bc |
 | utccp-image-ironic-hardware-inventory-recorder-image | https://gitee.com/ccps/utccp-image-ironic-hardware-inventory-recorder-image/commit/d41cc23848ac8fc99018bb46a463d014043b405a |
 | utccp-image-ironic-image | https://gitee.com/ccps/utccp-image-ironic-image/commit/13aa189710006bfb64f1c4fda5d15906c40813e4 |
 | utccp-image-ironic-rhcos-downloader | https://gitee.com/ccps/utccp-image-ironic-rhcos-downloader/commit/0b3560b8d7dbd83b27dc77c4510991ac1d392029 |
