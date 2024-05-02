@@ -66,7 +66,7 @@
 | utccp-image-csi-node-driver-registrar | https://gitee.com/ccps/utccp-image-csi-node-driver-registrar/commit/be9349879f16ad08cc9a89d1087ae25ce1e78d6b |
 | utccp-image-driver-toolkit | https://gitee.com/ccps/utccp-image-driver-toolkit/commit/513ac1ffb8909f141a6088b16d46d2631dfd7d02 |
 | utccp-image-egress-router-cni | https://gitee.com/ccps/utccp-image-egress-router-cni/commit/8f62b2ba51e521c472ad253f88538ce336a178e4 |
-| utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/019393f0ca5ce0111a2a05c11b37a8a12d96c7ea |
+| utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/2ec82e1316260465a2ac881ec36cdd62e7da5f6e |
 | utccp-image-grafana | https://gitee.com/ccps/utccp-image-grafana/commit/d796a7fc4ba4d948ee56a5d24f2d8c2b7be77671 |
 | utccp-image-image-customization-controller | https://gitee.com/ccps/utccp-image-image-customization-controller/commit/d03827d40567b7f2071279e98ef0eb81ffb3bf11 |
 | utccp-image-image-registry | https://gitee.com/ccps/utccp-image-image-registry/commit/1530b0f7265905dd3876f7665e370052ecb6fee5 |
@@ -104,7 +104,7 @@
 | utccp-image-openshift-apiserver | https://gitee.com/ccps/utccp-image-openshift-apiserver/commit/eab7807de80ef2854dc8300b2a4f7e8530c0d582 |
 | utccp-image-openshift-controller-manager | https://gitee.com/ccps/utccp-image-openshift-controller-manager/commit/7f6499966b695f42495d17834aa6894961fbe578 |
 | utccp-image-openshift-state-metrics | https://gitee.com/ccps/utccp-image-openshift-state-metrics/commit/92631b1295878c4b52f0bb4b89fa915abcd79784 |
-| utccp-image-openstack-cinder-csi-driver-operator | https://gitee.com/ccps/utccp-image-openstack-cinder-csi-driver-operator/commit/7022e1c6a530809bc808b4bf50c93965d2c7e92f |
+| utccp-image-openstack-cinder-csi-driver-operator | https://gitee.com/ccps/utccp-image-openstack-cinder-csi-driver-operator/commit/d2a30d87d0b8350785ed5cfd06a1484be78bd69e |
 | utccp-image-openstack-cloud-controller-manager | https://gitee.com/ccps/utccp-image-openstack-cloud-controller-manager/commit/fd00d384fa2687c14ce3e70d7aa744e257949191 |
 | utccp-image-operator-csi-external-snapshotter | https://gitee.com/ccps/utccp-image-operator-csi-external-snapshotter/commit/bb260a4772b2418f48a291be39ecaceb8c3e6521 |
 | utccp-image-operator-lifecycle-manager | https://gitee.com/ccps/utccp-image-operator-lifecycle-manager/commit/07aa9f07dc4d237c67f3798caa575da277a49a51 |
