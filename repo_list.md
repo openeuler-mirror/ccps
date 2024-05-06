@@ -111,7 +111,7 @@
 | utccp-image-operator-marketplace | https://gitee.com/ccps/utccp-image-operator-marketplace/commit/b0a88c44bc9ca85913d50867826d040899012822 |
 | utccp-image-operator-registry | https://gitee.com/ccps/utccp-image-operator-registry/commit/a137cbb4869b5bd0b1ef3f7ed1d42af488fff48d |
 | utccp-image-origin | https://gitee.com/ccps/utccp-image-origin/commit/6d6169e83e84f6be873443fe9d5317622a841710 |
-| utccp-image-ovirt-csi-driver | https://gitee.com/ccps/utccp-image-ovirt-csi-driver/commit/cf5c019eab4b9cf06f270b768e240fa18aa64aaf |
+| utccp-image-ovirt-csi-driver | https://gitee.com/ccps/utccp-image-ovirt-csi-driver/commit/e2f3977579116fbeb5edcd38761bd727d1c1420b |
 | utccp-image-ovirt-csi-driver-operator | https://gitee.com/ccps/utccp-image-ovirt-csi-driver-operator/commit/a56b1a6ea5e7c62d97a2cdbe99b56fd0f16266ca |
 | utccp-image-ovn-kubernetes | https://gitee.com/ccps/utccp-image-ovn-kubernetes/commit/adec9a96737040d6cc2f1122e2cf3819ff0b6036 |
 | utccp-image-powervs-machine-controllers | https://gitee.com/ccps/utccp-image-powervs-machine-controllers/commit/2204ed5f04cafe3448bc2240a37f4990d75172d3 |
