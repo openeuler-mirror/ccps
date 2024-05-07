@@ -31,7 +31,7 @@
 | utccp-image-cluster-config-operator | https://gitee.com/ccps/utccp-image-cluster-config-operator/commit/1248659285e6a9dd0712556917d9bfbd9d1d7d51 |
 | utccp-image-cluster-csi-snapshot-controller-operator | https://gitee.com/ccps/utccp-image-cluster-csi-snapshot-controller-operator/commit/1b3cb38279716fbf79c1b4a3e9222e444014f85c |
 | utccp-image-cluster-dns-operator | https://gitee.com/ccps/utccp-image-cluster-dns-operator/commit/1eaf252281f2b89df6ed11854bfbbc48ad4fb6f5 |
-| utccp-image-cluster-etcd-operator | https://gitee.com/ccps/utccp-image-cluster-etcd-operator/commit/db603ea88eaaaa0693609589e6c70fb60a867dc0 |
+| utccp-image-cluster-etcd-operator | https://gitee.com/ccps/utccp-image-cluster-etcd-operator/commit/88b3602835663681aa8c9c3b25e3fdae5ef0991a |
 | utccp-image-cluster-image-registry-operator | https://gitee.com/ccps/utccp-image-cluster-image-registry-operator/commit/76a50c08540e8bcf94891adee2984aa2f3465287 |
 | utccp-image-cluster-ingress-operator | https://gitee.com/ccps/utccp-image-cluster-ingress-operator/commit/c9aa1a3f55f4677e21c260420891f4ef779a6c4b |
 | utccp-image-cluster-kube-apiserver-operator | https://gitee.com/ccps/utccp-image-cluster-kube-apiserver-operator/commit/e0ad06d330d90188f3f8e23ba3ff8952f3d51a9a |
@@ -51,7 +51,7 @@
 | utccp-image-cluster-version-operator | https://gitee.com/ccps/utccp-image-cluster-version-operator/commit/109f1f540d4ee91946069d99015b98014d98c09b |
 | utccp-image-configmap-reload | https://gitee.com/ccps/utccp-image-configmap-reload/commit/288859564775ea515b08056007fef536422f2ef4 |
 | utccp-image-console | https://gitee.com/ccps/utccp-image-console/commit/5a38f27ad6c55ef3b20823604f2558b70dfa3e55 |
-| utccp-image-console-operator | https://gitee.com/ccps/utccp-image-console-operator/commit/4691098f5b45403dc10f1524bc19b12215a9982b |
+| utccp-image-console-operator | https://gitee.com/ccps/utccp-image-console-operator/commit/1c39e37b51ef520ebe2eaac95199735df71446f6 |
 | utccp-image-containernetworking-plugins | https://gitee.com/ccps/utccp-image-containernetworking-plugins/commit/208c6de8c24468ad9eb8db63207f4b4dec0c9d39 |
 | utccp-image-coredns | https://gitee.com/ccps/utccp-image-coredns/commit/fcd6b203fb4947fc88ccdd3a2aab9e48bf8f23b2 |
 | utccp-image-csi-driver-manila-operator | https://gitee.com/ccps/utccp-image-csi-driver-manila-operator/commit/381b6ca8e78f8ee399cfe8632b4d29e4341ff4a9 |
