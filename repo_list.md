@@ -23,7 +23,7 @@
 | utccp-image-cluster-api-provider-ovirt | https://gitee.com/ccps/utccp-image-cluster-api-provider-ovirt/commit/36c85c3ff3840771c6766397b8f87e9feb7f280c |
 | utccp-image-cluster-authentication-operator | https://gitee.com/ccps/utccp-image-cluster-authentication-operator/commit/99c8062f2a041b5855dab7cb22f4cb7a3fa906e0 |
 | utccp-image-cluster-autoscaler | https://gitee.com/ccps/utccp-image-cluster-autoscaler/commit/fcc6eb9f1fb5f157d1da569841277e1ea46d0f9d |
-| utccp-image-cluster-autoscaler-operator | https://gitee.com/ccps/utccp-image-cluster-autoscaler-operator/commit/68c402376b538e5faaeaa1f0e7d938f3002d52c8 |
+| utccp-image-cluster-autoscaler-operator | https://gitee.com/ccps/utccp-image-cluster-autoscaler-operator/commit/e1d27783e62c3a11424b2af50ede9751138591e3 |
 | utccp-image-cluster-baremetal-operator | https://gitee.com/ccps/utccp-image-cluster-baremetal-operator/commit/2cb1950054847ab4a6d9463989629dc6231cbf8a |
 | utccp-image-cluster-bootstrap | https://gitee.com/ccps/utccp-image-cluster-bootstrap/commit/e534aab4c5f99eb47c4a339d04b03e4db31a5d3e |
 | utccp-image-cluster-capi-operator | https://gitee.com/ccps/utccp-image-cluster-capi-operator/commit/bbcc44cc7f75bfe32acbe05543fa1e611dc91e55 |
@@ -31,7 +31,7 @@
 | utccp-image-cluster-config-operator | https://gitee.com/ccps/utccp-image-cluster-config-operator/commit/1248659285e6a9dd0712556917d9bfbd9d1d7d51 |
 | utccp-image-cluster-csi-snapshot-controller-operator | https://gitee.com/ccps/utccp-image-cluster-csi-snapshot-controller-operator/commit/1b3cb38279716fbf79c1b4a3e9222e444014f85c |
 | utccp-image-cluster-dns-operator | https://gitee.com/ccps/utccp-image-cluster-dns-operator/commit/1eaf252281f2b89df6ed11854bfbbc48ad4fb6f5 |
-| utccp-image-cluster-etcd-operator | https://gitee.com/ccps/utccp-image-cluster-etcd-operator/commit/94a452e955dcd98bfcf71eccc4cee8ceeb2c793d |
+| utccp-image-cluster-etcd-operator | https://gitee.com/ccps/utccp-image-cluster-etcd-operator/commit/1ecf84e255333b43a1676cf2501331a85cd0e78b |
 | utccp-image-cluster-image-registry-operator | https://gitee.com/ccps/utccp-image-cluster-image-registry-operator/commit/76a50c08540e8bcf94891adee2984aa2f3465287 |
 | utccp-image-cluster-ingress-operator | https://gitee.com/ccps/utccp-image-cluster-ingress-operator/commit/c9aa1a3f55f4677e21c260420891f4ef779a6c4b |
 | utccp-image-cluster-kube-apiserver-operator | https://gitee.com/ccps/utccp-image-cluster-kube-apiserver-operator/commit/e0ad06d330d90188f3f8e23ba3ff8952f3d51a9a |
