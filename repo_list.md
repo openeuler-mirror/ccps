@@ -86,7 +86,7 @@
 | utccp-image-machine-api-operator | https://gitee.com/ccps/utccp-image-machine-api-operator/commit/e60751b0a74f98c2ce73768d165db0033cc4ed87 |
 | utccp-image-machine-api-provider-openstack | https://gitee.com/ccps/utccp-image-machine-api-provider-openstack/commit/bbfdc2e05895865133b60f75e3ae33df7a1f01c6 |
 | utccp-image-machine-config-operator | https://gitee.com/ccps/utccp-image-machine-config-operator/commit/d4444d0e5fff1d45899d89112fa2010ccc20c629 |
-| utccp-image-machine-os-content | https://gitee.com/ccps/utccp-image-machine-os-content/commit/a6ab75cb264469f8c39c613e4aef4667459fb9c1 |
+| utccp-image-machine-os-content | https://gitee.com/ccps/utccp-image-machine-os-content/commit/29058625e82ba5f315fdda99916efdb847ede73c |
 | utccp-image-machine-os-images | https://gitee.com/ccps/utccp-image-machine-os-images/commit/b97f41665a25b225278d33b83abe07f96ae30771 |
 | utccp-image-multus-admission-controller | https://gitee.com/ccps/utccp-image-multus-admission-controller/commit/29c8fcd34ed2c03f4af8bac9d39c7e651487a24d |
 | utccp-image-multus-cni | https://gitee.com/ccps/utccp-image-multus-cni/commit/f5eb8ab28baed27db0645eea3538b18fbbd14175 |
