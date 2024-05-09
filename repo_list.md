@@ -104,7 +104,7 @@
 | utccp-image-openshift-apiserver | https://gitee.com/ccps/utccp-image-openshift-apiserver/commit/eab7807de80ef2854dc8300b2a4f7e8530c0d582 |
 | utccp-image-openshift-controller-manager | https://gitee.com/ccps/utccp-image-openshift-controller-manager/commit/7f6499966b695f42495d17834aa6894961fbe578 |
 | utccp-image-openshift-state-metrics | https://gitee.com/ccps/utccp-image-openshift-state-metrics/commit/92631b1295878c4b52f0bb4b89fa915abcd79784 |
-| utccp-image-openstack-cinder-csi-driver-operator | https://gitee.com/ccps/utccp-image-openstack-cinder-csi-driver-operator/commit/d2a30d87d0b8350785ed5cfd06a1484be78bd69e |
+| utccp-image-openstack-cinder-csi-driver-operator | https://gitee.com/ccps/utccp-image-openstack-cinder-csi-driver-operator/commit/65d8e09c9b3147e2d17344a2ef5395a3f4860d25 |
 | utccp-image-openstack-cloud-controller-manager | https://gitee.com/ccps/utccp-image-openstack-cloud-controller-manager/commit/fd00d384fa2687c14ce3e70d7aa744e257949191 |
 | utccp-image-operator-csi-external-snapshotter | https://gitee.com/ccps/utccp-image-operator-csi-external-snapshotter/commit/bb260a4772b2418f48a291be39ecaceb8c3e6521 |
 | utccp-image-operator-lifecycle-manager | https://gitee.com/ccps/utccp-image-operator-lifecycle-manager/commit/07aa9f07dc4d237c67f3798caa575da277a49a51 |
