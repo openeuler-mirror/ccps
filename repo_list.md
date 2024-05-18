@@ -14,7 +14,7 @@
 | utccp-image-baremetal-runtimecfg | https://gitee.com/ccps/utccp-image-baremetal-runtimecfg/commit/98c4b6618cc6598f8e25a2c2456c14265c29fea7 |
 | utccp-image-builder | https://gitee.com/ccps/utccp-image-builder/commit/4f666602c28d1aec81c4247440ddb2cf62337113 |
 | utccp-image-cloud-credential-operator | https://gitee.com/ccps/utccp-image-cloud-credential-operator/commit/826426a4faf7d180c2a83e4914d300b40925d85b |
-| utccp-image-cloud-network-config-controller | https://gitee.com/ccps/utccp-image-cloud-network-config-controller/commit/2cf80883eb831de93e0b6f9f8255f1cd85b9cb29 |
+| utccp-image-cloud-network-config-controller | https://gitee.com/ccps/utccp-image-cloud-network-config-controller/commit/57cb510deb16a810f59ee6be620d0396e167feee |
 | utccp-image-cloud-provider-openstack | https://gitee.com/ccps/utccp-image-cloud-provider-openstack/commit/c0eb61b261bb94d963888b5acd11317807031470 |
 | utccp-image-cluster-api | https://gitee.com/ccps/utccp-image-cluster-api/commit/53594fb02f00f409e4dfe515c07469b4463a48e7 |
 | utccp-image-cluster-api-provider-baremetal | https://gitee.com/ccps/utccp-image-cluster-api-provider-baremetal/commit/a983914c9fea2bf525c8d580976062d67563375b |
