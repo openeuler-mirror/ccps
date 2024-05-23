@@ -117,7 +117,7 @@
 | utccp-image-powervs-machine-controllers | https://gitee.com/ccps/utccp-image-powervs-machine-controllers/commit/2204ed5f04cafe3448bc2240a37f4990d75172d3 |
 | utccp-image-prom-label-proxy | https://gitee.com/ccps/utccp-image-prom-label-proxy/commit/9bbdc562f25ba46f1beb166cb79f8acce639c2c9 |
 | utccp-image-prometheus | https://gitee.com/ccps/utccp-image-prometheus/commit/9a00160109c527a8c03e1c83c3a2a553c2793a5c |
-| utccp-image-prometheus-alertmanager | https://gitee.com/ccps/utccp-image-prometheus-alertmanager/commit/1d4bdde7ab393d61f1f5220fa60026d78f70c02a |
+| utccp-image-prometheus-alertmanager | https://gitee.com/ccps/utccp-image-prometheus-alertmanager/commit/None |
 | utccp-image-prometheus-operator | https://gitee.com/ccps/utccp-image-prometheus-operator/commit/07d494fb1437fd8a559ef393f52844751f9fc550 |
 | utccp-image-release | https://gitee.com/ccps/utccp-image-release/commit/b728014926137a710bb7b05ee8a569bf0de19f33 |
 | utccp-image-route-override-cni | https://gitee.com/ccps/utccp-image-route-override-cni/commit/44974e7f50b4e726aa0ad5e345d75aea1890a49c |
