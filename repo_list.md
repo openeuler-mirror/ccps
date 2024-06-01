@@ -35,7 +35,7 @@
 | utccp-image-cluster-image-registry-operator | https://gitee.com/ccps/utccp-image-cluster-image-registry-operator/commit/76a50c08540e8bcf94891adee2984aa2f3465287 |
 | utccp-image-cluster-ingress-operator | https://gitee.com/ccps/utccp-image-cluster-ingress-operator/commit/c9aa1a3f55f4677e21c260420891f4ef779a6c4b |
 | utccp-image-cluster-kube-apiserver-operator | https://gitee.com/ccps/utccp-image-cluster-kube-apiserver-operator/commit/e0ad06d330d90188f3f8e23ba3ff8952f3d51a9a |
-| utccp-image-cluster-kube-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-kube-controller-manager-operator/commit/adbc8eea83ea8da5b3f928536123a63ede678ffe |
+| utccp-image-cluster-kube-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-kube-controller-manager-operator/commit/ff89dd92efa3d7b54bee6f326c00e68802e7f6b2 |
 | utccp-image-cluster-kube-scheduler-operator | https://gitee.com/ccps/utccp-image-cluster-kube-scheduler-operator/commit/576f2acf79aba0a3d774929334f5f3459b58bcc1 |
 | utccp-image-cluster-kube-storage-version-migrator-operator | https://gitee.com/ccps/utccp-image-cluster-kube-storage-version-migrator-operator/commit/466de79db9df5c5dc9ea875a058f1d7708777dd6 |
 | utccp-image-cluster-machine-approver | https://gitee.com/ccps/utccp-image-cluster-machine-approver/commit/f41ef5e11cc271e6b1472e7122a3b47a7232d9db |
