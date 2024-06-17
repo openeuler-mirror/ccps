@@ -28,7 +28,7 @@
 | utccp-image-cluster-bootstrap | https://gitee.com/ccps/utccp-image-cluster-bootstrap/commit/e534aab4c5f99eb47c4a339d04b03e4db31a5d3e |
 | utccp-image-cluster-capi-operator | https://gitee.com/ccps/utccp-image-cluster-capi-operator/commit/bbcc44cc7f75bfe32acbe05543fa1e611dc91e55 |
 | utccp-image-cluster-cloud-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-cloud-controller-manager-operator/commit/0d51e48c3425182c4c0da5f1e4d0c77121d3ae4b |
-| utccp-image-cluster-config-operator | https://gitee.com/ccps/utccp-image-cluster-config-operator/commit/None |
+| utccp-image-cluster-config-operator | https://gitee.com/ccps/utccp-image-cluster-config-operator/commit/1248659285e6a9dd0712556917d9bfbd9d1d7d51 |
 | utccp-image-cluster-csi-snapshot-controller-operator | https://gitee.com/ccps/utccp-image-cluster-csi-snapshot-controller-operator/commit/1b3cb38279716fbf79c1b4a3e9222e444014f85c |
 | utccp-image-cluster-dns-operator | https://gitee.com/ccps/utccp-image-cluster-dns-operator/commit/1eaf252281f2b89df6ed11854bfbbc48ad4fb6f5 |
 | utccp-image-cluster-etcd-operator | https://gitee.com/ccps/utccp-image-cluster-etcd-operator/commit/76d1cb1f29ff9597383f460ac4383fbbf05398c3 |
@@ -82,7 +82,7 @@
 | utccp-image-kube-state-metrics | https://gitee.com/ccps/utccp-image-kube-state-metrics/commit/85f07da91592665443ff36c7f593f511b53b0078 |
 | utccp-image-kubernetes | https://gitee.com/ccps/utccp-image-kubernetes/commit/d9ae114173f2ff3eecae19c974be483c811464a4 |
 | utccp-image-kubernetes-kube-storage-version-migrator | https://gitee.com/ccps/utccp-image-kubernetes-kube-storage-version-migrator/commit/179ae8339b6ac8e52037a44486aa6f0b34cc16e3 |
-| utccp-image-kuryr-kubernetes | https://gitee.com/ccps/utccp-image-kuryr-kubernetes/commit/6adc6b9917cc212a4109e81f5024a9f0901db8f4 |
+| utccp-image-kuryr-kubernetes | https://gitee.com/ccps/utccp-image-kuryr-kubernetes/commit/None |
 | utccp-image-machine-api-operator | https://gitee.com/ccps/utccp-image-machine-api-operator/commit/e60751b0a74f98c2ce73768d165db0033cc4ed87 |
 | utccp-image-machine-api-provider-openstack | https://gitee.com/ccps/utccp-image-machine-api-provider-openstack/commit/bbfdc2e05895865133b60f75e3ae33df7a1f01c6 |
 | utccp-image-machine-config-operator | https://gitee.com/ccps/utccp-image-machine-config-operator/commit/d4444d0e5fff1d45899d89112fa2010ccc20c629 |
