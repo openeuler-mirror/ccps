@@ -42,7 +42,7 @@
 | utccp-image-cluster-monitoring-operator | https://gitee.com/ccps/utccp-image-cluster-monitoring-operator/commit/5352b962a9c7d82ba69f2ce9a6416ba702f8766f |
 | utccp-image-cluster-network-operator | https://gitee.com/ccps/utccp-image-cluster-network-operator/commit/dbd16a00f0b7bc00097ac5ff15d5abf6dabd7f2a |
 | utccp-image-cluster-node-tuning-operator | https://gitee.com/ccps/utccp-image-cluster-node-tuning-operator/commit/0f1028015ab77b16ef51822a5d2765e89770f55c |
-| utccp-image-cluster-openshift-apiserver-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-apiserver-operator/commit/None |
+| utccp-image-cluster-openshift-apiserver-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-apiserver-operator/commit/1e7c707813324b8851101afae45f97e2bda829f0 |
 | utccp-image-cluster-openshift-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-controller-manager-operator/commit/9f7261e720a0f058c81bbe24f1695ee3e487a490 |
 | utccp-image-cluster-policy-controller | https://gitee.com/ccps/utccp-image-cluster-policy-controller/commit/68a0b9d402de4bb4895adfe0f46622ef7ac4fb14 |
 | utccp-image-cluster-samples-operator | https://gitee.com/ccps/utccp-image-cluster-samples-operator/commit/8df8d14e69886fe9aa7197545b84ccca0bdeaa99 |
@@ -93,7 +93,7 @@
 | utccp-image-multus-networkpolicy | https://gitee.com/ccps/utccp-image-multus-networkpolicy/commit/71dd50acab38431973473a4a8ccbf4003e667efc |
 | utccp-image-must-gather | https://gitee.com/ccps/utccp-image-must-gather/commit/2b25bd5f1c91e78ef39bad956d9503e08d923107 |
 | utccp-image-network-interface-bond-cni | https://gitee.com/ccps/utccp-image-network-interface-bond-cni/commit/e44569b9814859a88d2422e8d7f5b65e034805af |
-| utccp-image-network-metrics-daemon | https://gitee.com/ccps/utccp-image-network-metrics-daemon/commit/dcd0af3e2434df2154798f5099b24a5541c45860 |
+| utccp-image-network-metrics-daemon | https://gitee.com/ccps/utccp-image-network-metrics-daemon/commit/ad284475d0d3417b5e8809f6676182f6b4c75b97 |
 | utccp-image-network-tools | https://gitee.com/ccps/utccp-image-network-tools/commit/6cca16fafcc75c92af5a89c0ea39604580b54ebf |
 | utccp-image-node_exporter | https://gitee.com/ccps/utccp-image-node_exporter/commit/5ef9273d823a6bd9423fa0e909bbba6bf29aa419 |
 | utccp-image-oauth-apiserver | https://gitee.com/ccps/utccp-image-oauth-apiserver/commit/7fbaf9573c615b18c9f18a9b05bf32c1f928cb44 |
