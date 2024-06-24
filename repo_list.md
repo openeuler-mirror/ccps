@@ -11,7 +11,7 @@
 | utccp-image-alibaba-disk-csi-driver-operator | https://gitee.com/ccps/utccp-image-alibaba-disk-csi-driver-operator/commit/ada77951aa1843b17ebfeea5a531dffaa754c6d3 |
 | utccp-image-alibaba-machine-controllers | https://gitee.com/ccps/utccp-image-alibaba-machine-controllers/commit/eb3d3d202ddd88de6ee956c4951ae80a4691fb76 |
 | utccp-image-baremetal-operator | https://gitee.com/ccps/utccp-image-baremetal-operator/commit/26ebcc0a4b65b391b1175e4ea7ace3744bd37662 |
-| utccp-image-baremetal-runtimecfg | https://gitee.com/ccps/utccp-image-baremetal-runtimecfg/commit/4f2a154c125b37f216df8c12a87297b76a4b5f93 |
+| utccp-image-baremetal-runtimecfg | https://gitee.com/ccps/utccp-image-baremetal-runtimecfg/commit/d72121a33c106901556d04c95203bb1948a0bb9f |
 | utccp-image-builder | https://gitee.com/ccps/utccp-image-builder/commit/4f666602c28d1aec81c4247440ddb2cf62337113 |
 | utccp-image-cloud-credential-operator | https://gitee.com/ccps/utccp-image-cloud-credential-operator/commit/826426a4faf7d180c2a83e4914d300b40925d85b |
 | utccp-image-cloud-network-config-controller | https://gitee.com/ccps/utccp-image-cloud-network-config-controller/commit/57cb510deb16a810f59ee6be620d0396e167feee |
@@ -49,7 +49,7 @@
 | utccp-image-cluster-storage-operator | https://gitee.com/ccps/utccp-image-cluster-storage-operator/commit/9200b3b9d9d12ac4aa94db230b59a526cd7b2571 |
 | utccp-image-cluster-update-keys | https://gitee.com/ccps/utccp-image-cluster-update-keys/commit/da6b103e62a0e9ad7c2c10617f2f7201ece1fb24 |
 | utccp-image-cluster-version-operator | https://gitee.com/ccps/utccp-image-cluster-version-operator/commit/8111a2a33478fb78cccf7a5e65ca6995dec5889e |
-| utccp-image-configmap-reload | https://gitee.com/ccps/utccp-image-configmap-reload/commit/288859564775ea515b08056007fef536422f2ef4 |
+| utccp-image-configmap-reload | https://gitee.com/ccps/utccp-image-configmap-reload/commit/None |
 | utccp-image-console | https://gitee.com/ccps/utccp-image-console/commit/5a38f27ad6c55ef3b20823604f2558b70dfa3e55 |
 | utccp-image-console-operator | https://gitee.com/ccps/utccp-image-console-operator/commit/a65dec1df2c16a2c7cb8199560cfd8727bf33dde |
 | utccp-image-containernetworking-plugins | https://gitee.com/ccps/utccp-image-containernetworking-plugins/commit/208c6de8c24468ad9eb8db63207f4b4dec0c9d39 |
