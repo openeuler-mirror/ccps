@@ -80,13 +80,13 @@
 | utccp-image-k8s-prometheus-adapter | https://gitee.com/ccps/utccp-image-k8s-prometheus-adapter/commit/edcf50d84af62c131f73c9c1c506e2b2db2a50a0 |
 | utccp-image-kube-rbac-proxy | https://gitee.com/ccps/utccp-image-kube-rbac-proxy/commit/3d6e319f9203d6378410e8a15ccc1c22d1756326 |
 | utccp-image-kube-state-metrics | https://gitee.com/ccps/utccp-image-kube-state-metrics/commit/85f07da91592665443ff36c7f593f511b53b0078 |
-| utccp-image-kubernetes | https://gitee.com/ccps/utccp-image-kubernetes/commit/d9ae114173f2ff3eecae19c974be483c811464a4 |
+| utccp-image-kubernetes | https://gitee.com/ccps/utccp-image-kubernetes/commit/031e4f996def520dd4950b7cf0b8090aa35cb25d |
 | utccp-image-kubernetes-kube-storage-version-migrator | https://gitee.com/ccps/utccp-image-kubernetes-kube-storage-version-migrator/commit/179ae8339b6ac8e52037a44486aa6f0b34cc16e3 |
 | utccp-image-kuryr-kubernetes | https://gitee.com/ccps/utccp-image-kuryr-kubernetes/commit/6adc6b9917cc212a4109e81f5024a9f0901db8f4 |
 | utccp-image-machine-api-operator | https://gitee.com/ccps/utccp-image-machine-api-operator/commit/e60751b0a74f98c2ce73768d165db0033cc4ed87 |
 | utccp-image-machine-api-provider-openstack | https://gitee.com/ccps/utccp-image-machine-api-provider-openstack/commit/bbfdc2e05895865133b60f75e3ae33df7a1f01c6 |
 | utccp-image-machine-config-operator | https://gitee.com/ccps/utccp-image-machine-config-operator/commit/c1b2b64cb61b3b80dd4b0f74a8cb52fcefbdb162 |
-| utccp-image-machine-os-content | https://gitee.com/ccps/utccp-image-machine-os-content/commit/5bba151d2f6aab8465930140160f429cce0180e6 |
+| utccp-image-machine-os-content | https://gitee.com/ccps/utccp-image-machine-os-content/commit/0b58f2b77a7d5ba5cc30eaacde6f74a1ab7d7378 |
 | utccp-image-machine-os-images | https://gitee.com/ccps/utccp-image-machine-os-images/commit/b97f41665a25b225278d33b83abe07f96ae30771 |
 | utccp-image-multus-admission-controller | https://gitee.com/ccps/utccp-image-multus-admission-controller/commit/3ac34de83e44e6ab19d35f8e0b0a4ab3eba6975f |
 | utccp-image-multus-cni | https://gitee.com/ccps/utccp-image-multus-cni/commit/f5eb8ab28baed27db0645eea3538b18fbbd14175 |
