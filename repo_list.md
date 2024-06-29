@@ -122,7 +122,7 @@
 | utccp-image-release | https://gitee.com/ccps/utccp-image-release/commit/b728014926137a710bb7b05ee8a569bf0de19f33 |
 | utccp-image-route-override-cni | https://gitee.com/ccps/utccp-image-route-override-cni/commit/44974e7f50b4e726aa0ad5e345d75aea1890a49c |
 | utccp-image-router | https://gitee.com/ccps/utccp-image-router/commit/8970c04608dec636a7b73c502322c56ec2be89ae |
-| utccp-image-sdn | https://gitee.com/ccps/utccp-image-sdn/commit/56ebf88e4cdbc0d7ebc02f78b4d2f3a7feb17e3e |
+| utccp-image-sdn | https://gitee.com/ccps/utccp-image-sdn/commit/127ccad3b98c8f66873ce154a57f745b1993a8b3 |
 | utccp-image-service-ca-operator | https://gitee.com/ccps/utccp-image-service-ca-operator/commit/56a504830c0ff0c225ec6eb6e681d7292996cabf |
 | utccp-image-telemeter | https://gitee.com/ccps/utccp-image-telemeter/commit/70831ae4a78182c9b1cef94af4ff99e6341c764a |
 | utccp-image-thanos | https://gitee.com/ccps/utccp-image-thanos/commit/98a2fa61e15815c5611adda9541627e0464a5c7b |
