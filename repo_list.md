@@ -12,7 +12,7 @@
 | utccp-image-alibaba-machine-controllers | https://gitee.com/ccps/utccp-image-alibaba-machine-controllers/commit/eb3d3d202ddd88de6ee956c4951ae80a4691fb76 |
 | utccp-image-baremetal-operator | https://gitee.com/ccps/utccp-image-baremetal-operator/commit/26ebcc0a4b65b391b1175e4ea7ace3744bd37662 |
 | utccp-image-baremetal-runtimecfg | https://gitee.com/ccps/utccp-image-baremetal-runtimecfg/commit/6a6080bd6ab8427c3b31e53a77268f0ad0a753c2 |
-| utccp-image-builder | https://gitee.com/ccps/utccp-image-builder/commit/b022fa1300bdcf630ea4b3597cbfadb81850da33 |
+| utccp-image-builder | https://gitee.com/ccps/utccp-image-builder/commit/a0f9be6091cde21124fb31abe625748f97919764 |
 | utccp-image-cloud-credential-operator | https://gitee.com/ccps/utccp-image-cloud-credential-operator/commit/826426a4faf7d180c2a83e4914d300b40925d85b |
 | utccp-image-cloud-network-config-controller | https://gitee.com/ccps/utccp-image-cloud-network-config-controller/commit/57cb510deb16a810f59ee6be620d0396e167feee |
 | utccp-image-cloud-provider-openstack | https://gitee.com/ccps/utccp-image-cloud-provider-openstack/commit/c0eb61b261bb94d963888b5acd11317807031470 |
