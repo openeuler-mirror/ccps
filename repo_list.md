@@ -113,7 +113,7 @@
 | utccp-image-origin | https://gitee.com/ccps/utccp-image-origin/commit/6d6169e83e84f6be873443fe9d5317622a841710 |
 | utccp-image-ovirt-csi-driver | https://gitee.com/ccps/utccp-image-ovirt-csi-driver/commit/e2f3977579116fbeb5edcd38761bd727d1c1420b |
 | utccp-image-ovirt-csi-driver-operator | https://gitee.com/ccps/utccp-image-ovirt-csi-driver-operator/commit/a56b1a6ea5e7c62d97a2cdbe99b56fd0f16266ca |
-| utccp-image-ovn-kubernetes | https://gitee.com/ccps/utccp-image-ovn-kubernetes/commit/90e3a70d93e50a49b92f8a40677f767e9b874f89 |
+| utccp-image-ovn-kubernetes | https://gitee.com/ccps/utccp-image-ovn-kubernetes/commit/2b3189a5ec296eec6bba714db2f09d323ab45d3c |
 | utccp-image-powervs-machine-controllers | https://gitee.com/ccps/utccp-image-powervs-machine-controllers/commit/66602766cf27c42a49c67fe38ffd0bcbcb9a39ff |
 | utccp-image-prom-label-proxy | https://gitee.com/ccps/utccp-image-prom-label-proxy/commit/9bbdc562f25ba46f1beb166cb79f8acce639c2c9 |
 | utccp-image-prometheus | https://gitee.com/ccps/utccp-image-prometheus/commit/9a00160109c527a8c03e1c83c3a2a553c2793a5c |
