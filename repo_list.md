@@ -38,7 +38,7 @@
 | utccp-image-cluster-kube-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-kube-controller-manager-operator/commit/ff89dd92efa3d7b54bee6f326c00e68802e7f6b2 |
 | utccp-image-cluster-kube-scheduler-operator | https://gitee.com/ccps/utccp-image-cluster-kube-scheduler-operator/commit/576f2acf79aba0a3d774929334f5f3459b58bcc1 |
 | utccp-image-cluster-kube-storage-version-migrator-operator | https://gitee.com/ccps/utccp-image-cluster-kube-storage-version-migrator-operator/commit/466de79db9df5c5dc9ea875a058f1d7708777dd6 |
-| utccp-image-cluster-machine-approver | https://gitee.com/ccps/utccp-image-cluster-machine-approver/commit/f41ef5e11cc271e6b1472e7122a3b47a7232d9db |
+| utccp-image-cluster-machine-approver | https://gitee.com/ccps/utccp-image-cluster-machine-approver/commit/None |
 | utccp-image-cluster-monitoring-operator | https://gitee.com/ccps/utccp-image-cluster-monitoring-operator/commit/5352b962a9c7d82ba69f2ce9a6416ba702f8766f |
 | utccp-image-cluster-network-operator | https://gitee.com/ccps/utccp-image-cluster-network-operator/commit/2f28b8a2d78284122f35ea2a158ac29452ac3374 |
 | utccp-image-cluster-node-tuning-operator | https://gitee.com/ccps/utccp-image-cluster-node-tuning-operator/commit/0f1028015ab77b16ef51822a5d2765e89770f55c |
@@ -66,7 +66,7 @@
 | utccp-image-csi-node-driver-registrar | https://gitee.com/ccps/utccp-image-csi-node-driver-registrar/commit/be9349879f16ad08cc9a89d1087ae25ce1e78d6b |
 | utccp-image-driver-toolkit | https://gitee.com/ccps/utccp-image-driver-toolkit/commit/513ac1ffb8909f141a6088b16d46d2631dfd7d02 |
 | utccp-image-egress-router-cni | https://gitee.com/ccps/utccp-image-egress-router-cni/commit/8f62b2ba51e521c472ad253f88538ce336a178e4 |
-| utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/630772a4ef8128e1c2a563b0de3aeff569826e2f |
+| utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/None |
 | utccp-image-grafana | https://gitee.com/ccps/utccp-image-grafana/commit/d796a7fc4ba4d948ee56a5d24f2d8c2b7be77671 |
 | utccp-image-image-customization-controller | https://gitee.com/ccps/utccp-image-image-customization-controller/commit/d03827d40567b7f2071279e98ef0eb81ffb3bf11 |
 | utccp-image-image-registry | https://gitee.com/ccps/utccp-image-image-registry/commit/1530b0f7265905dd3876f7665e370052ecb6fee5 |
@@ -77,7 +77,7 @@
 | utccp-image-ironic-image | https://gitee.com/ccps/utccp-image-ironic-image/commit/13aa189710006bfb64f1c4fda5d15906c40813e4 |
 | utccp-image-ironic-rhcos-downloader | https://gitee.com/ccps/utccp-image-ironic-rhcos-downloader/commit/965f5685c8a554e40262d69b8fcee7f1612c47e3 |
 | utccp-image-ironic-static-ip-manager | https://gitee.com/ccps/utccp-image-ironic-static-ip-manager/commit/4b3e4abcd271fc08cb93168c7112b3448976c74a |
-| utccp-image-k8s-prometheus-adapter | https://gitee.com/ccps/utccp-image-k8s-prometheus-adapter/commit/edcf50d84af62c131f73c9c1c506e2b2db2a50a0 |
+| utccp-image-k8s-prometheus-adapter | https://gitee.com/ccps/utccp-image-k8s-prometheus-adapter/commit/None |
 | utccp-image-kube-rbac-proxy | https://gitee.com/ccps/utccp-image-kube-rbac-proxy/commit/3d6e319f9203d6378410e8a15ccc1c22d1756326 |
 | utccp-image-kube-state-metrics | https://gitee.com/ccps/utccp-image-kube-state-metrics/commit/85f07da91592665443ff36c7f593f511b53b0078 |
 | utccp-image-kubernetes | https://gitee.com/ccps/utccp-image-kubernetes/commit/031e4f996def520dd4950b7cf0b8090aa35cb25d |
@@ -100,7 +100,7 @@
 | utccp-image-oauth-proxy | https://gitee.com/ccps/utccp-image-oauth-proxy/commit/c503d2bc687b167dae3e61d680b5ce12c9ef07ee |
 | utccp-image-oauth-server | https://gitee.com/ccps/utccp-image-oauth-server/commit/c2e93cad3108c0eb0bd4cdc07c0c34628273d03d |
 | utccp-image-oc | https://gitee.com/ccps/utccp-image-oc/commit/f5723a315c5460bcdf0a23c690c6a93a2395f9d6 |
-| utccp-image-oc-mirror-plugin | https://gitee.com/ccps/utccp-image-oc-mirror-plugin/commit/517be8e726f43d0f2d39a2a86e145d708ecb838c |
+| utccp-image-oc-mirror-plugin | https://gitee.com/ccps/utccp-image-oc-mirror-plugin/commit/None |
 | utccp-image-openshift-apiserver | https://gitee.com/ccps/utccp-image-openshift-apiserver/commit/eab7807de80ef2854dc8300b2a4f7e8530c0d582 |
 | utccp-image-openshift-controller-manager | https://gitee.com/ccps/utccp-image-openshift-controller-manager/commit/19999d5963a3a1e63c5e9d2307ff41d394f3d77d |
 | utccp-image-openshift-state-metrics | https://gitee.com/ccps/utccp-image-openshift-state-metrics/commit/92631b1295878c4b52f0bb4b89fa915abcd79784 |
@@ -108,12 +108,12 @@
 | utccp-image-openstack-cloud-controller-manager | https://gitee.com/ccps/utccp-image-openstack-cloud-controller-manager/commit/285585e263024b99a4452c4ba97eabd92a278420 |
 | utccp-image-operator-csi-external-snapshotter | https://gitee.com/ccps/utccp-image-operator-csi-external-snapshotter/commit/bb260a4772b2418f48a291be39ecaceb8c3e6521 |
 | utccp-image-operator-lifecycle-manager | https://gitee.com/ccps/utccp-image-operator-lifecycle-manager/commit/07aa9f07dc4d237c67f3798caa575da277a49a51 |
-| utccp-image-operator-marketplace | https://gitee.com/ccps/utccp-image-operator-marketplace/commit/b0a88c44bc9ca85913d50867826d040899012822 |
-| utccp-image-operator-registry | https://gitee.com/ccps/utccp-image-operator-registry/commit/04ec0cce9954ba0f28f70daab1bcb86f771f6f4a |
+| utccp-image-operator-marketplace | https://gitee.com/ccps/utccp-image-operator-marketplace/commit/None |
+| utccp-image-operator-registry | https://gitee.com/ccps/utccp-image-operator-registry/commit/5bc6f01b74bd18f7010f2342d4ed01809a035d89 |
 | utccp-image-origin | https://gitee.com/ccps/utccp-image-origin/commit/6d6169e83e84f6be873443fe9d5317622a841710 |
 | utccp-image-ovirt-csi-driver | https://gitee.com/ccps/utccp-image-ovirt-csi-driver/commit/e2f3977579116fbeb5edcd38761bd727d1c1420b |
 | utccp-image-ovirt-csi-driver-operator | https://gitee.com/ccps/utccp-image-ovirt-csi-driver-operator/commit/a56b1a6ea5e7c62d97a2cdbe99b56fd0f16266ca |
-| utccp-image-ovn-kubernetes | https://gitee.com/ccps/utccp-image-ovn-kubernetes/commit/201503fdc103f3198e47ba9bf1ddd0a1a575232d |
+| utccp-image-ovn-kubernetes | https://gitee.com/ccps/utccp-image-ovn-kubernetes/commit/None |
 | utccp-image-powervs-machine-controllers | https://gitee.com/ccps/utccp-image-powervs-machine-controllers/commit/66602766cf27c42a49c67fe38ffd0bcbcb9a39ff |
 | utccp-image-prom-label-proxy | https://gitee.com/ccps/utccp-image-prom-label-proxy/commit/9bbdc562f25ba46f1beb166cb79f8acce639c2c9 |
 | utccp-image-prometheus | https://gitee.com/ccps/utccp-image-prometheus/commit/9a00160109c527a8c03e1c83c3a2a553c2793a5c |
@@ -126,7 +126,7 @@
 | utccp-image-service-ca-operator | https://gitee.com/ccps/utccp-image-service-ca-operator/commit/56a504830c0ff0c225ec6eb6e681d7292996cabf |
 | utccp-image-telemeter | https://gitee.com/ccps/utccp-image-telemeter/commit/70831ae4a78182c9b1cef94af4ff99e6341c764a |
 | utccp-image-thanos | https://gitee.com/ccps/utccp-image-thanos/commit/98a2fa61e15815c5611adda9541627e0464a5c7b |
-| utccp-image-vmware-vsphere-csi-driver | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver/commit/d5f856737a6b219c3ebcbd9bbe9e3ee997c4302c |
+| utccp-image-vmware-vsphere-csi-driver | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver/commit/None |
 | utccp-image-vmware-vsphere-csi-driver-operator | https://gitee.com/ccps/utccp-image-vmware-vsphere-csi-driver-operator/commit/12a9f329b898115cd71a180eb530b7307914af91 |
 | utccp-image-vsphere-cloud-controller-manager | https://gitee.com/ccps/utccp-image-vsphere-cloud-controller-manager/commit/60218b5ebd341f3773d838f4f5683e95e9a22936 |
 | utccp-image-vsphere-problem-detector | https://gitee.com/ccps/utccp-image-vsphere-problem-detector/commit/300c8f9c09c07ed6e57441dd36f97967890b3e7f |
