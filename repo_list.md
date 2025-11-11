@@ -51,7 +51,7 @@
 | utccp-image-cluster-version-operator | https://gitee.com/ccps/utccp-image-cluster-version-operator/commit/8111a2a33478fb78cccf7a5e65ca6995dec5889e |
 | utccp-image-configmap-reload | https://gitee.com/ccps/utccp-image-configmap-reload/commit/288859564775ea515b08056007fef536422f2ef4 |
 | utccp-image-console | https://gitee.com/ccps/utccp-image-console/commit/5a38f27ad6c55ef3b20823604f2558b70dfa3e55 |
-| utccp-image-console-operator | https://gitee.com/ccps/utccp-image-console-operator/commit/7abc073f80083762a249b46a11b5dcfd6f0a09c4 |
+| utccp-image-console-operator | https://gitee.com/ccps/utccp-image-console-operator/commit/37d8c2b751d29b776977d27ede871a7e747b67fa |
 | utccp-image-containernetworking-plugins | https://gitee.com/ccps/utccp-image-containernetworking-plugins/commit/208c6de8c24468ad9eb8db63207f4b4dec0c9d39 |
 | utccp-image-coredns | https://gitee.com/ccps/utccp-image-coredns/commit/fcd6b203fb4947fc88ccdd3a2aab9e48bf8f23b2 |
 | utccp-image-csi-driver-manila-operator | https://gitee.com/ccps/utccp-image-csi-driver-manila-operator/commit/381b6ca8e78f8ee399cfe8632b4d29e4341ff4a9 |
