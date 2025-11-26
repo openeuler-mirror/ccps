@@ -17,7 +17,7 @@
 | utccp-image-cloud-network-config-controller | https://gitee.com/ccps/utccp-image-cloud-network-config-controller/commit/57cb510deb16a810f59ee6be620d0396e167feee |
 | utccp-image-cloud-provider-openstack | https://gitee.com/ccps/utccp-image-cloud-provider-openstack/commit/c0eb61b261bb94d963888b5acd11317807031470 |
 | utccp-image-cluster-api | https://gitee.com/ccps/utccp-image-cluster-api/commit/53594fb02f00f409e4dfe515c07469b4463a48e7 |
-| utccp-image-cluster-api-provider-baremetal | https://gitee.com/ccps/utccp-image-cluster-api-provider-baremetal/commit/None |
+| utccp-image-cluster-api-provider-baremetal | https://gitee.com/ccps/utccp-image-cluster-api-provider-baremetal/commit/a983914c9fea2bf525c8d580976062d67563375b |
 | utccp-image-cluster-api-provider-libvirt | https://gitee.com/ccps/utccp-image-cluster-api-provider-libvirt/commit/a2dbe396c8e6625704fd7619d09708b97018a39a |
 | utccp-image-cluster-api-provider-openstack | https://gitee.com/ccps/utccp-image-cluster-api-provider-openstack/commit/5dd2b7eefeccf07739987110d9f4df385bf61178 |
 | utccp-image-cluster-api-provider-ovirt | https://gitee.com/ccps/utccp-image-cluster-api-provider-ovirt/commit/ddc141ebe7790861f4a958d6adfacb9d4cc1a06b |
@@ -78,7 +78,7 @@
 | utccp-image-ironic-rhcos-downloader | https://gitee.com/ccps/utccp-image-ironic-rhcos-downloader/commit/965f5685c8a554e40262d69b8fcee7f1612c47e3 |
 | utccp-image-ironic-static-ip-manager | https://gitee.com/ccps/utccp-image-ironic-static-ip-manager/commit/4b3e4abcd271fc08cb93168c7112b3448976c74a |
 | utccp-image-k8s-prometheus-adapter | https://gitee.com/ccps/utccp-image-k8s-prometheus-adapter/commit/edcf50d84af62c131f73c9c1c506e2b2db2a50a0 |
-| utccp-image-kube-rbac-proxy | https://gitee.com/ccps/utccp-image-kube-rbac-proxy/commit/f72eb8dfc08f9d92d8b82ee784f870e3eba2a8e6 |
+| utccp-image-kube-rbac-proxy | https://gitee.com/ccps/utccp-image-kube-rbac-proxy/commit/f8f90dfa4a8a0bf18e0188df35880c0e9b43204b |
 | utccp-image-kube-state-metrics | https://gitee.com/ccps/utccp-image-kube-state-metrics/commit/85f07da91592665443ff36c7f593f511b53b0078 |
 | utccp-image-kubernetes | https://gitee.com/ccps/utccp-image-kubernetes/commit/031e4f996def520dd4950b7cf0b8090aa35cb25d |
 | utccp-image-kubernetes-kube-storage-version-migrator | https://gitee.com/ccps/utccp-image-kubernetes-kube-storage-version-migrator/commit/179ae8339b6ac8e52037a44486aa6f0b34cc16e3 |
