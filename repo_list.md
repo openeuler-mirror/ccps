@@ -17,7 +17,7 @@
 | utccp-image-cloud-network-config-controller | https://gitee.com/ccps/utccp-image-cloud-network-config-controller/commit/57cb510deb16a810f59ee6be620d0396e167feee |
 | utccp-image-cloud-provider-openstack | https://gitee.com/ccps/utccp-image-cloud-provider-openstack/commit/c0eb61b261bb94d963888b5acd11317807031470 |
 | utccp-image-cluster-api | https://gitee.com/ccps/utccp-image-cluster-api/commit/53594fb02f00f409e4dfe515c07469b4463a48e7 |
-| utccp-image-cluster-api-provider-baremetal | https://gitee.com/ccps/utccp-image-cluster-api-provider-baremetal/commit/a983914c9fea2bf525c8d580976062d67563375b |
+| utccp-image-cluster-api-provider-baremetal | https://gitee.com/ccps/utccp-image-cluster-api-provider-baremetal/commit/None |
 | utccp-image-cluster-api-provider-libvirt | https://gitee.com/ccps/utccp-image-cluster-api-provider-libvirt/commit/a2dbe396c8e6625704fd7619d09708b97018a39a |
 | utccp-image-cluster-api-provider-openstack | https://gitee.com/ccps/utccp-image-cluster-api-provider-openstack/commit/5dd2b7eefeccf07739987110d9f4df385bf61178 |
 | utccp-image-cluster-api-provider-ovirt | https://gitee.com/ccps/utccp-image-cluster-api-provider-ovirt/commit/ddc141ebe7790861f4a958d6adfacb9d4cc1a06b |
