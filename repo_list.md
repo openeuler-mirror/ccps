@@ -17,7 +17,7 @@
 | utccp-image-cloud-network-config-controller | https://gitee.com/ccps/utccp-image-cloud-network-config-controller/commit/57cb510deb16a810f59ee6be620d0396e167feee |
 | utccp-image-cloud-provider-openstack | https://gitee.com/ccps/utccp-image-cloud-provider-openstack/commit/c0eb61b261bb94d963888b5acd11317807031470 |
 | utccp-image-cluster-api | https://gitee.com/ccps/utccp-image-cluster-api/commit/53594fb02f00f409e4dfe515c07469b4463a48e7 |
-| utccp-image-cluster-api-provider-baremetal | https://gitee.com/ccps/utccp-image-cluster-api-provider-baremetal/commit/a983914c9fea2bf525c8d580976062d67563375b |
+| utccp-image-cluster-api-provider-baremetal | https://gitee.com/ccps/utccp-image-cluster-api-provider-baremetal/commit/None |
 | utccp-image-cluster-api-provider-libvirt | https://gitee.com/ccps/utccp-image-cluster-api-provider-libvirt/commit/a2dbe396c8e6625704fd7619d09708b97018a39a |
 | utccp-image-cluster-api-provider-openstack | https://gitee.com/ccps/utccp-image-cluster-api-provider-openstack/commit/5dd2b7eefeccf07739987110d9f4df385bf61178 |
 | utccp-image-cluster-api-provider-ovirt | https://gitee.com/ccps/utccp-image-cluster-api-provider-ovirt/commit/ddc141ebe7790861f4a958d6adfacb9d4cc1a06b |
@@ -120,7 +120,7 @@
 | utccp-image-prometheus-alertmanager | https://gitee.com/ccps/utccp-image-prometheus-alertmanager/commit/1d4bdde7ab393d61f1f5220fa60026d78f70c02a |
 | utccp-image-prometheus-operator | https://gitee.com/ccps/utccp-image-prometheus-operator/commit/07d494fb1437fd8a559ef393f52844751f9fc550 |
 | utccp-image-release | https://gitee.com/ccps/utccp-image-release/commit/b728014926137a710bb7b05ee8a569bf0de19f33 |
-| utccp-image-route-override-cni | https://gitee.com/ccps/utccp-image-route-override-cni/commit/44974e7f50b4e726aa0ad5e345d75aea1890a49c |
+| utccp-image-route-override-cni | https://gitee.com/ccps/utccp-image-route-override-cni/commit/66e23c92938e805df488ed6a474ddc035e5c28c6 |
 | utccp-image-router | https://gitee.com/ccps/utccp-image-router/commit/8970c04608dec636a7b73c502322c56ec2be89ae |
 | utccp-image-sdn | https://gitee.com/ccps/utccp-image-sdn/commit/e8e57b132144a7d1998fd520bf786f172e5516ca |
 | utccp-image-service-ca-operator | https://gitee.com/ccps/utccp-image-service-ca-operator/commit/56a504830c0ff0c225ec6eb6e681d7292996cabf |
