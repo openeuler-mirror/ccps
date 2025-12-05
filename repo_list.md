@@ -108,7 +108,7 @@
 | utccp-image-openstack-cloud-controller-manager | https://gitee.com/ccps/utccp-image-openstack-cloud-controller-manager/commit/285585e263024b99a4452c4ba97eabd92a278420 |
 | utccp-image-operator-csi-external-snapshotter | https://gitee.com/ccps/utccp-image-operator-csi-external-snapshotter/commit/bb260a4772b2418f48a291be39ecaceb8c3e6521 |
 | utccp-image-operator-lifecycle-manager | https://gitee.com/ccps/utccp-image-operator-lifecycle-manager/commit/07aa9f07dc4d237c67f3798caa575da277a49a51 |
-| utccp-image-operator-marketplace | https://gitee.com/ccps/utccp-image-operator-marketplace/commit/8ead263e85b891916c3b3c827bdad6095d05df0f |
+| utccp-image-operator-marketplace | https://gitee.com/ccps/utccp-image-operator-marketplace/commit/1f1a4c776963eec299473bda8fb7dcd6e376123c |
 | utccp-image-operator-registry | https://gitee.com/ccps/utccp-image-operator-registry/commit/f3267862e3d37e2a611a1836d27fb785e67a31ea |
 | utccp-image-origin | https://gitee.com/ccps/utccp-image-origin/commit/6d6169e83e84f6be873443fe9d5317622a841710 |
 | utccp-image-ovirt-csi-driver | https://gitee.com/ccps/utccp-image-ovirt-csi-driver/commit/e2f3977579116fbeb5edcd38761bd727d1c1420b |
