@@ -1,7 +1,7 @@
 # CCPS仓库及最新提交
 | 仓库名称 | 最新一次提交 |
 | -------- | ------------ |
-| utccp | https://gitee.com/ccps/utccp/commit/4d8ae6965d66e5030038c64cc5c6d8c02ac1af8b |
+| utccp | https://gitee.com/ccps/utccp/commit/15c219d80cb074303e9ba5bedecb1aed71cbacf6 |
 | utccp-clients | https://gitee.com/ccps/utccp-clients/commit/828866d893f709eb3bd02ea3c8912dd053f88e81 |
 | utccp-gitops-kam | https://gitee.com/ccps/utccp-gitops-kam/commit/None |
 | utccp-helm | https://gitee.com/ccps/utccp-helm/commit/87ba7cb7f75200a098fb2628ec4ff60a8bd395ef |
