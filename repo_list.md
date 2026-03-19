@@ -80,7 +80,7 @@
 | utccp-image-k8s-prometheus-adapter | https://gitee.com/ccps/utccp-image-k8s-prometheus-adapter/commit/edcf50d84af62c131f73c9c1c506e2b2db2a50a0 |
 | utccp-image-kube-rbac-proxy | https://gitee.com/ccps/utccp-image-kube-rbac-proxy/commit/6d220a241fd5fdc27ad90d5d2e607db7095e63fc |
 | utccp-image-kube-state-metrics | https://gitee.com/ccps/utccp-image-kube-state-metrics/commit/85f07da91592665443ff36c7f593f511b53b0078 |
-| utccp-image-kubernetes | https://gitee.com/ccps/utccp-image-kubernetes/commit/031e4f996def520dd4950b7cf0b8090aa35cb25d |
+| utccp-image-kubernetes | https://gitee.com/ccps/utccp-image-kubernetes/commit/e06afb8558190be7e9981f4d2b6f425d7f577a6e |
 | utccp-image-kubernetes-kube-storage-version-migrator | https://gitee.com/ccps/utccp-image-kubernetes-kube-storage-version-migrator/commit/179ae8339b6ac8e52037a44486aa6f0b34cc16e3 |
 | utccp-image-kuryr-kubernetes | https://gitee.com/ccps/utccp-image-kuryr-kubernetes/commit/845b12e37a8f87797ebfd2badd229a8405adc85d |
 | utccp-image-machine-api-operator | https://gitee.com/ccps/utccp-image-machine-api-operator/commit/e60751b0a74f98c2ce73768d165db0033cc4ed87 |
