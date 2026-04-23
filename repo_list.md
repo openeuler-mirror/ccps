@@ -41,7 +41,7 @@
 | utccp-image-cluster-machine-approver | https://gitee.com/ccps/utccp-image-cluster-machine-approver/commit/f41ef5e11cc271e6b1472e7122a3b47a7232d9db |
 | utccp-image-cluster-monitoring-operator | https://gitee.com/ccps/utccp-image-cluster-monitoring-operator/commit/5352b962a9c7d82ba69f2ce9a6416ba702f8766f |
 | utccp-image-cluster-network-operator | https://gitee.com/ccps/utccp-image-cluster-network-operator/commit/d8af8334c6be3577f8b7ee5fa6671b475483266b |
-| utccp-image-cluster-node-tuning-operator | https://gitee.com/ccps/utccp-image-cluster-node-tuning-operator/commit/0f1028015ab77b16ef51822a5d2765e89770f55c |
+| utccp-image-cluster-node-tuning-operator | https://gitee.com/ccps/utccp-image-cluster-node-tuning-operator/commit/4bd821b74558935a8300173f92c2ae1347533b51 |
 | utccp-image-cluster-openshift-apiserver-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-apiserver-operator/commit/f74e8dcd38a5139c71a7703ac59850ff738cff8c |
 | utccp-image-cluster-openshift-controller-manager-operator | https://gitee.com/ccps/utccp-image-cluster-openshift-controller-manager-operator/commit/9f7261e720a0f058c81bbe24f1695ee3e487a490 |
 | utccp-image-cluster-policy-controller | https://gitee.com/ccps/utccp-image-cluster-policy-controller/commit/68a0b9d402de4bb4895adfe0f46622ef7ac4fb14 |
@@ -94,7 +94,7 @@
 | utccp-image-must-gather | https://gitee.com/ccps/utccp-image-must-gather/commit/c941aa9a91b218ff7d0fb404890a061f2b91edd3 |
 | utccp-image-network-interface-bond-cni | https://gitee.com/ccps/utccp-image-network-interface-bond-cni/commit/e44569b9814859a88d2422e8d7f5b65e034805af |
 | utccp-image-network-metrics-daemon | https://gitee.com/ccps/utccp-image-network-metrics-daemon/commit/eb5ba4d6505a0ec74120b07172434bc7d8f05ba5 |
-| utccp-image-network-tools | https://gitee.com/ccps/utccp-image-network-tools/commit/e6e1f3045cb5cf4b96359106e8e530f1a80a7c44 |
+| utccp-image-network-tools | https://gitee.com/ccps/utccp-image-network-tools/commit/7794450ef62de723667579180133bd7b2a3b5433 |
 | utccp-image-node_exporter | https://gitee.com/ccps/utccp-image-node_exporter/commit/58ace7a8ae670d93619476a10cafc1e2d4d2eceb |
 | utccp-image-oauth-apiserver | https://gitee.com/ccps/utccp-image-oauth-apiserver/commit/7fbaf9573c615b18c9f18a9b05bf32c1f928cb44 |
 | utccp-image-oauth-proxy | https://gitee.com/ccps/utccp-image-oauth-proxy/commit/f27e04ff0c711db5760befac7e4a273dc142f64a |
