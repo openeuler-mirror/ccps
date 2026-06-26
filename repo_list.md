@@ -66,7 +66,7 @@
 | utccp-image-csi-node-driver-registrar | https://gitee.com/ccps/utccp-image-csi-node-driver-registrar/commit/be9349879f16ad08cc9a89d1087ae25ce1e78d6b |
 | utccp-image-driver-toolkit | https://gitee.com/ccps/utccp-image-driver-toolkit/commit/513ac1ffb8909f141a6088b16d46d2631dfd7d02 |
 | utccp-image-egress-router-cni | https://gitee.com/ccps/utccp-image-egress-router-cni/commit/8f62b2ba51e521c472ad253f88538ce336a178e4 |
-| utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/7d12f0cccf9ad04d07315509790da2d48396419b |
+| utccp-image-etcd | https://gitee.com/ccps/utccp-image-etcd/commit/8c6bfc21c46e7066dbece098366784f43bcf78ae |
 | utccp-image-grafana | https://gitee.com/ccps/utccp-image-grafana/commit/d796a7fc4ba4d948ee56a5d24f2d8c2b7be77671 |
 | utccp-image-image-customization-controller | https://gitee.com/ccps/utccp-image-image-customization-controller/commit/d03827d40567b7f2071279e98ef0eb81ffb3bf11 |
 | utccp-image-image-registry | https://gitee.com/ccps/utccp-image-image-registry/commit/1530b0f7265905dd3876f7665e370052ecb6fee5 |
@@ -102,7 +102,7 @@
 | utccp-image-oc | https://gitee.com/ccps/utccp-image-oc/commit/888b883bb8e95a4bb783252b62eabf83c3ddafa6 |
 | utccp-image-oc-mirror-plugin | https://gitee.com/ccps/utccp-image-oc-mirror-plugin/commit/517be8e726f43d0f2d39a2a86e145d708ecb838c |
 | utccp-image-openshift-apiserver | https://gitee.com/ccps/utccp-image-openshift-apiserver/commit/eab7807de80ef2854dc8300b2a4f7e8530c0d582 |
-| utccp-image-openshift-controller-manager | https://gitee.com/ccps/utccp-image-openshift-controller-manager/commit/bccd367c747442c72778bce73414bec96f72a862 |
+| utccp-image-openshift-controller-manager | https://gitee.com/ccps/utccp-image-openshift-controller-manager/commit/9754ad71a17176df837c09f6391c12cb632abf5e |
 | utccp-image-openshift-state-metrics | https://gitee.com/ccps/utccp-image-openshift-state-metrics/commit/92631b1295878c4b52f0bb4b89fa915abcd79784 |
 | utccp-image-openstack-cinder-csi-driver-operator | https://gitee.com/ccps/utccp-image-openstack-cinder-csi-driver-operator/commit/875131f0cce716e51f40d8440c19e008ffc0d8d9 |
 | utccp-image-openstack-cloud-controller-manager | https://gitee.com/ccps/utccp-image-openstack-cloud-controller-manager/commit/285585e263024b99a4452c4ba97eabd92a278420 |
